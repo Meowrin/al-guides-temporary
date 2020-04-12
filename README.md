@@ -14,6 +14,7 @@ Other useful resources:
  - [Bazzra's airstrike cooldown calculator](https://bazzra.github.io/)
  - [Enbayft's AL Repository](https://github.com/Enbayft/Random-AL-Stuff)
  - [Dimbreath's decompiled AL client source code](https://github.com/Dimbreath/AzurLaneScripts)
+ - [Meowrin's Commonly used Nickname album](https://imgur.com/a/4wEvTQo)
  - [Azur Lane Wiki](https://azurlane.koumakan.jp/Azur_Lane_Wiki)
  - [Azur Lane Enemy Data](https://al-data.github.io/enemies)
  
@@ -36,6 +37,8 @@ CHANGELOG
     Crosswave: VH Armor
     Looking Glass of Fact and Fiction: Team Emblem and Gamer's Mark
   minor link/wording changes
+  changed binary102's client source to Dimbreath's automatically updated client source
+  added Meowrin's Nickname album
 2020-01-27
   added equipment from royal maid server event to equipment guide.md:
     130mm single, 134mm twin high-angle
