@@ -24,7 +24,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 
  - **[Pyoko-Pyoko/Headband](https://azurlane.koumakan.jp/Pyoko-Pyoko)** provides the same HP boost as the repair kit, but trades the heal-over-time for a minor luck boost. While the luck boost is incredibly small, because the heal from multiple repair kits cannot stack, Headband becomes an optimal replacement for a repair kit when equipped to a ship who would otherwise gain the highest eHP boost from equipping two auxiliary equips that give this level of HP boost.
  
- - **[Seal of the Four Gods](https://azurlane.koumakan.jp/Seal_of_the_Four_Gods)** has the highest raw HP boost in the game and increases the barrage damage of the four ROC DDs by 50% as well as changes the barrage color. Limited to only Destroyers. While the HP difference is small, it is relevant nonetheless due to the same reason as Headband.
+ - **[Seal of the Four Gods](https://azurlane.koumakan.jp/Seal_of_the_Four_Gods)** has the highest raw HP boost for Destroyers in the game and increases the barrage damage of the four ROC DDs by 50% as well as changes the barrage color. Limited to only Destroyers. While the HP difference is small, it is relevant nonetheless due to the same reason as Headband.
  
  - **[Gamer's Mark](https://azurlane.koumakan.jp/Gamers_Mark)** provides the same raw HP boost as Seal of the Four Gods but is not limited to only Destroyers which means ships that may value the HP boost (e.g Ryuuhou, CL/CAs in specific situations) can also make use of it.
  
@@ -46,6 +46,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![Repair Crane](/resources/repair%20crane%20no_gr.png)](https://azurlane.koumakan.jp/Ship_Maintenance_Crane#Type_3)
 [![Torpedo Bulge](/resources/torpedo%20bulge%20no_gr.png)](https://azurlane.koumakan.jp/Anti-Torpedo_Bulge#Type_3)
 [![Pearl Tears](/resources/pearl%20tears%20no_gr.png)](https://azurlane.koumakan.jp/Pearl_Tears)
+[![VH Armor](/resources/VH%20Armor.png)](https://azurlane.koumakan.jp/VH_Armor_Plating)
 
  - **[Fire Extinguisher](https://azurlane.koumakan.jp/Fire_Extinguisher)** provides a moderate boost to HP and reduces the chances of a ship catching fire, reduces damage received when on fire, and reduces the duration of burn effects.
  
@@ -56,6 +57,8 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  - **[Anti-Torpedo Bulge](https://azurlane.koumakan.jp/Anti-Torpedo_Bulge#Type_3)** provides a moderate boost to HP and reduces damage received from torpedoes. Does not apply to damage from torpedo bombers.
  
  - **[Pearl Tears](https://azurlane.koumakan.jp/Pearl_Tears)** provide an equivalent HP boost to the repair kit, but trade the heal-over-time for a fleet-wide heal when the equipped ship sinks. Useful when powerleveling low-level ships and especially useful in PVP.
+
+ - **[VH Armor](https://azurlane.koumakan.jp/VH_Armor_Plating)** provide the highest raw HP boost in the game for Battleships, Battlecruisers, Aviation Battleships, Aircraft Carriers and Large Cruiser(s) as well as reduces damage taken from all ammo type on a Heavy armored ship OR changes their armor type to Heavy if the ship armor isn't Heavy. Useful for specific backliners with %HP self-healing capabilities or paired with Vestal against AP damage source in event maps, or on a particular frontline Large Cruiser. Limited usage in normal maps due to backline ships have either more appropiate defensive equipment for the situation or simply prefer offensive options.
 
 ## Offensive Auxiliary Equipment
 **Vanguard Auxiliaries**<br/>
