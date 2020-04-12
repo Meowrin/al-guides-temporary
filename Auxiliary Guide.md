@@ -10,7 +10,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![Repair Kit](/resources/repair%20kit%20no_gr.png)](https://azurlane.koumakan.jp/Repair_Toolkit#Type_3)
 [![Pyoko-Pyoko](/resources/pyoko-pyoko%20no_gr.png)](https://azurlane.koumakan.jp/Pyoko-Pyoko)
 [![Gamer's Mark](/resources/Gamers%20Mark.png)](https://azurlane.koumakan.jp/Gamers_Mark)
-[![Seal of the Four Gods](/resources/Seal%20of%20the%20four%20Gods.png)](https://azurlane.koumakan.jp/Seal_of_the_Four_Gods)
+[![Seal of the Four Gods](/resources/Seal%20of%20the%20Four%20Gods.png)](https://azurlane.koumakan.jp/Seal_of_the_Four_Gods)
 [![Fuel Filter](/resources/fuel%20filter%20no_gr.png)](https://azurlane.koumakan.jp/Fuel_Filter#Type_3)
 [![Naval Camo](/resources/naval%20camo%20no_gr.png)](https://azurlane.koumakan.jp/Naval_Camouflage)
 [![Hydraulic Rudder](/resources/hydraulic%20rudder%20no_gr.png)](https://azurlane.koumakan.jp/Hydraulic_Steering_Gear)
