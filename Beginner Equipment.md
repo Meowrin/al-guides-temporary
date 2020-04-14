@@ -154,7 +154,7 @@ Because blue equipment requires such a small number of blueprints to craft, farm
 - **Relevant Ships:** All Ships
 - The strongest readily available evasion-boosting auxiliary equips. While mostly used on cruisers, they can be useful on any ship early-game, when auxiliary equipment is rare. Similar to the fire extinguisher, there are no higher rarity versions, but there is an evasion boosting aux acquired through research that functionally obsoletes these. Other than sprite and farming location, these equips are identical.
 
-#### [Octuple 40mm Pom-Pom  <br/> ![Norfolk AA Gun](/resources/Norfolk%20AA%20Gun.png)](https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom#Type_1)
+#### [Octuple 40mm Pom-Pom  <br/> ![Norfolk AA Gun](/resources/Octuple%2040mm%20PomPom.png)](https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom#Type_1)
 - **Source:** Stock Equipment on Norfolk and Royal Equipment Boxes
 - **Relevant Ships:** All Ships
 - One of the most easily obtainable blue AA gun in the game due to Norfolk. While AA isn't as big of a problem early on, having a couple copies of this +3 equipped will make your push through 3-4 massively easier. Do note that for AA guns, the highest rarity gun should be equipped on the highest efficiency ship in your fleet as a beginner rule of thumb, optimizing AA is in the [Equipment Guide](Equipment%20Guide.md#anti-air-aa-guns).
