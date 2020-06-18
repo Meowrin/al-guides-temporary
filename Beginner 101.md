@@ -9,10 +9,10 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 - SSR rates are 7% anyway.
 
 ## Table of content:
-- [Top bar (element 1-6)](ui%20guide#Top-bar-(element-1-6))
-- [Right side bar (element 7-12)](ui%20guide#Right-side-bar-(element-7-12))
-- [Bottom bar (element 19-26)](ui%20guide#Bottom-bar-(element-19-26))
-- [Middle of the screen (elemt 13-18 and 27-30)](ui%20guide#Middle-of-the-screen-(elemet-13-18-and-27-30))
+- [Top bar (element 1-6)](Beginner-101.md#Top-bar-(element-1-6))
+- [Right side bar (element 7-12)](Beginner-101.md#Right-side-bar-(element-7-12))
+- [Bottom bar (element 19-26)](Beginner-101.md#Bottom-bar-(element-19-26))
+- [Middle of the screen (elemt 13-18 and 27-30)](Beginner-101.md#Middle-of-the-screen-(elemet-13-18-and-27-30))
 - [Miscellaneous Tips]()
 
 ![I, Bucky](https://i.imgur.com/eeepxkL.jpg)
@@ -26,7 +26,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 
 ### Bottom bar (element 19-26)
 
-### Middle of the screen (elemt 13-18 and 27-30)
+### Middle of the screen (element 13-18 and 27-30)
 
 
 
