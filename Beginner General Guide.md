@@ -29,6 +29,17 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 ### Middle of the screen (element 13-18 and 27-30)
 
 
+# A collapsible section containing markdown
+<details>
+  <summary> Click to expand! </summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 
 
 
