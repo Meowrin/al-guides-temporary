@@ -13,7 +13,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 - [Main UI Explanation](#Main-UI-Explanation)
 - [Miscellaneous Tips]()
 
-### Useful Shorthands
+## Useful Shorthands
 <details>
   <summary> Rarity </summary>
   
