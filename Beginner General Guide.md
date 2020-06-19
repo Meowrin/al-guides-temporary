@@ -16,49 +16,54 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 ### Useful Shorthands
 <details>
   <summary> Rarity </summary>
-     * Common: N (Grey/White)
-     * Rare: R (Blue)
-     * Elite: SR (Purple)
-     * Super Rare: SSR (Yellow)
-     * Ultra Rare: UR (Rainbow)
-     * Prototype Rare: PR (Yellow)
-     * Decisive Rare: DR (Rainbow)
-     * Why is this like this? Don't ask me, idk, JP/FGO stuffs. It makes more sense to say it like that, EN do have a tendency to call Super Rare as SR but then get stumped on what to call purple cause Elite just sounds strange, what kind of rarity is Elite?
+  
+  * Common: N (Grey/White)
+  * Rare: R (Blue)
+  * Elite: SR (Purple)
+  * Super Rare: SSR (Yellow)
+  * Ultra Rare: UR (Rainbow)
+  * Prototype Rare: PR (Yellow)
+  * Decisive Rare: DR (Rainbow)
+  * Why is this like this? Don't ask me, idk, JP/FGO stuffs. It makes more sense to say it like that, EN do have a tendency to call Super Rare as SR but then get stumped on what to call purple cause Elite just sounds strange, what kind of rarity is Elite? If someone can provide me with a 
 </details>
 <details>
   <summary> Factions </summary>
-     * Sakura Empire: IJN (Japan)
-     * Eagle Union: USS (America)
-     * Royal Navy: HMS (Britain)
-     * Ironblood: KMS (German)
-     * Eastern Radiance: ROC/PRAN (China)
-     * North Union: SN (Russia)
-     * Iris Libre: FFNF (Free France)
-     * Vichya Dominion: MNF (Occupied France)
-     * Sardegna Empire: RN (Italy)
-     * There's also 2 common names for gears: SKC for German equipment and MLE for France equipment. Because these are present in the name so it's a bit more intuitive like that.
+  
+  * Sakura Empire: IJN (Japan)
+  * Eagle Union: USS (America)
+  * Royal Navy: HMS (Britain)
+  * Ironblood: KMS (German)
+  * Eastern Radiance: ROC/PRAN (China)
+  * North Union: SN (Russia)
+  * Iris Libre: FFNF (Free France)
+  * Vichya Dominion: MNF (Occupied France)
+  * Sardegna Empire: RN (Italy)
+  * There's also 2 common names for gears: SKC for German equipment and MLE for France equipment. Because these are present in the name so it's a bit more intuitive like that.
 </details>
+
 <details>
   <summary> Hull Class </summary>
-     * Destroyer: DD ![DD](/resources/45px-DD_img40.png)
-     * Light Cruiser: CL ![CL](/resources/45px-CL_img40.png)
-     * Heavy Cruiser: CA ![CA](/resources/45px-CA_img40.png)
-     * Large Cruiser: CB ![CB](/resources/45px-CB_img40.png)
-     * Battleship: BB ![BB](/resources/45px-BC_img40.png)
-     * Battlecruisers: BC ![BC](/resources/45px-BC_img40.png)
-     * Aviation Battleships: BBV ![BBV](/resources/45px-BBV_img40.png)
-     * Monitors: BM ![BM](/resources/45px-BM_img40.png)
-     * Aircraft Carriers: CV ![CV](/resources/45px-CVL_img40.png)
-     * Light Aircraft Carriers: CVL ![CVL](/resources/45px-CVL_img40.png)
-     * Submarines: SS ![SS](/resources/45px-SS_img40.png)
-     * Submarine Carriers: SSV ![SSV](/resources/45px-SSV_img40.png)
-     * Repair Ships: AR ![AR](/resources/45px-AR_img40.png)
-     * The ship hull class can be intuited through their icons but some just have downright the same icon therefore the only way to know what ship is in what hull class is in their ship profile in the dock. Explained later in the Dock section.
-     * Why is hull class important? 
+
+  * Destroyer: DD ![DD](/resources/45px-DD_img40.png)
+  * Light Cruiser: CL ![CL](/resources/45px-CL_img40.png)
+  * Heavy Cruiser: CA ![CA](/resources/45px-CA_img40.png)
+  * Large Cruiser: CB ![CB](/resources/45px-CB_img40.png)
+  * Battleship: BB ![BB](/resources/45px-BC_img40.png)
+  * Battlecruisers: BC ![BC](/resources/45px-BC_img40.png)
+  * Aviation Battleships: BBV ![BBV](/resources/45px-BBV_img40.png)
+  * Monitors: BM ![BM](/resources/45px-BM_img40.png)
+  * Aircraft Carriers: CV ![CV](/resources/45px-CVL_img40.png)
+  * Light Aircraft Carriers: CVL ![CVL](/resources/45px-CVL_img40.png)
+  * Submarines: SS ![SS](/resources/45px-SS_img40.png)
+  * Submarine Carriers: SSV ![SSV](/resources/45px-SSV_img40.png)
+  * Repair Ships: AR ![AR](/resources/45px-AR_img40.png)
+  * The ship hull class can be intuited through their icons but some just have downright the same icon therefore the only way to know what ship is in what hull class is in their ship profile in the dock. Explained later in the Dock section.
+  * Why is hull class important? 
      1. Vanguard ships including: DD, CL, CA and CB are your "frontline" ships, the ones that you actually control with your joystick. 
      2. Main fleet ships including: BB, BC, BBV, BM, CV, CVL and AR are your "backline" ships, who provide Artillery support fire and/or Airstrikes (BBVs provide both for example). 
      3. Submarine fleet including SS and SSV is another can of worm, unlocked after you clear chapter 3 map 4. A detailed guide about Submarines, Anti-submarine Warfare (ASW) and Rescue Missions can be found [here made by pootatoast](https://azurlane.koumakan.jp/User:Itsfyh/Submarines) (also in the helpful resources section of the readme)
 </details>
+
 ## Main UI Explanation:
 - [Top bar (element 1-6)](#top-bar-element-1-6)
 - [Right side bar (element 7-12)](#Right-side-bar-(element-7-12))
