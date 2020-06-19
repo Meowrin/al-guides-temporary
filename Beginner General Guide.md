@@ -30,7 +30,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   <summary> Factions </summary>
   
   * Sakura Empire: IJN (Japan)
-  * Eagle Union: USS (America)
+  * Eagle Union: USS (United States of America)
   * Royal Navy: HMS (Great Britain)
   * Ironblood: KMS (Germany)
   * Eastern Radiance: ROC/PRAN (China)
