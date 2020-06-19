@@ -24,7 +24,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   * Ultra Rare: UR (Rainbow)
   * Prototype Rare: PR (Yellow)
   * Decisive Rare: DR (Rainbow)
-  * Why is this like this? Don't ask me, idk, JP/FGO stuffs. It makes more sense to say it like that, EN do have a tendency to call Super Rare as SR but then get stumped on what to call purple cause Elite just sounds strange, what kind of rarity is Elite? If someone can provide me with a 
+  * Why is this like this? Don't ask me, idk, JP/FGO stuffs. It makes more sense to say it like that, EN do have a tendency to call Super Rare as SR but then get stumped on what to call purple cause Elite just sounds strange, what kind of rarity is Elite? Can someone please enlighten me on this?
 </details>
 <details>
   <summary> Factions </summary>
