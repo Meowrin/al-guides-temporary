@@ -31,8 +31,8 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   
   * Sakura Empire: IJN (Japan)
   * Eagle Union: USS (America)
-  * Royal Navy: HMS (Britain)
-  * Ironblood: KMS (German)
+  * Royal Navy: HMS (Great Britain)
+  * Ironblood: KMS (Germany)
   * Eastern Radiance: ROC/PRAN (China)
   * North Union: SN (Russia)
   * Iris Libre: FFNF (Free France)
@@ -79,8 +79,8 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 - **Element 1:** **the LV. is your HQ or Commander level**, leveling up while grants little to no immediate benefits but is quintessential to your progression ([details here](https://azurlane.koumakan.jp/Experience#Commander_XP)). Clicking on your secretary portrait takes you to your profile page. The profile page show you some basic data with some customization options. Top right "Style" is where you can customize your profile and chat border as well as medallion showcase. Bottom left is where you can change your greetings. Bottom left is where you can change your secretary as well as set your main secretary (who gains 1 affection every 300-320 mins). You unlock more secretary slots for cosmetics after clearing the specified story maps.
 - **Element 2:** is your quick access side bar. You can collect Canteen Oil and Merchant Coins passive generation here without going to the Academy page, check on Commission teams, Tactical Classroom (NOT the Lecture Hall) and your Research Academy. One of the places you will check the most in the game.
 - **Element 3:** Your "Beginner Missions" that gives a lot of resources and an SSR ship at the end (all 4 ship is also permanent available, recommendation for the ship is Hood if you don't have a BB/BC or Enterprise if you need a CV, Sandy is nice with retro but not that needed)
-- **Element 4:** is your current oil and oil soft cap, this cap is raised by 100 per HQ level. You can still gain more oil from buying oil with gems, commission, event/mission rewards or redeeming mails but will **NOT** be able to take oil from the canteen. The absolute oil **hard cap is 25,000 oil**. You cannot gain oil in anyway if you hit this hard cap.
-- **Element 5:** is your current gold and gold soft cap, this cap is raised by 600 per HQ level. Same deal as oil, still gain more gold from buying gold with gems, commission, event/mission rewards or redeeming mails but will **NOT** be able to take gold from the merchant. The absolute gold **hard cap is 600,000 gold**. You cannot gain gold in anyway if you hit this hard cap.
+- **Element 4:** is your current oil and oil soft cap, this cap is raised by 100 per HQ level. You can still gain more oil from buying oil with gems, commission, event/mission rewards or redeeming mails but will **NOT** be able to take oil from the canteen. The absolute oil **hard cap is 25,000 oil**. You cannot gain oil in any way if you hit this hard cap.
+- **Element 5:** is your current gold and gold soft cap, this cap is raised by 600 per HQ level. Same deal as oil, still gain more gold from buying gold with gems, commission, event/mission rewards or redeeming mails but will **NOT** be able to take gold from the merchant. The absolute gold **hard cap is 600,000 gold**. You cannot gain gold in any way if you hit this hard cap.
 - **Element 6:** is your current gems stock, the premium currency so to speak, you can gain more by buying in the gems shop, some packs, 3 starring story map missions and some lucky urgent commissions (a minimal amount if any). Recommended gem expenditure should always be permanent upgrade such as **Dormitory slots, Dock space expansion** or Academy 3rd slot unlock (cost 500 gems and not that needed since you eventually don't need to raise so many skills as the main bottleneck is skill books). **The 3rd dorm slot cost 300 gems, 4th cost 500 gems, 5th cost 800 gems and 6th cost 1200 gems.** The 2nd floor, which can be unlocked after you have fully expanded using furniture coins, cost **500 gems** and only provide morale regeneration and no exp gains. Dock space cost 200 gems per 10 slots until the 2000 dock space, after which it will cost 300 gems per 10 slots up to the cap of 3000 dock space.
 
 ### Right side bar (element 7-12)
