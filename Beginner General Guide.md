@@ -10,7 +10,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 
 ## Table of content:
 - [Useful Shorthands](#Useful-Shorthands)
-- [Main UI Explanation](#Main-UI-Explanation:)
+- [Main UI Explanation](#Main-UI-Explanation)
 - [Miscellaneous Tips]()
 
 ### Useful Shorthands
@@ -69,9 +69,9 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 
 ## Main UI Explanation:
 - [Top bar (element 1-6)](#top-bar-element-1-6)
-- [Right side bar (element 7-12)](#right-side-bar-(element-7-12))
-- [Bottom bar (element 19-26)](#Bottom-bar-(element-19-26))
-- [Middle of the screen (element 13-18 and 27-30)](#Middle-of-the-screen-(element-13-18-and-27-30))
+- [Right side bar (element 7-12)](#right-side-bar-element-7-12)
+- [Bottom bar (element 19-26)](#bottom-bar-element-19-26)
+- [Middle of the screen (element 13-18 and 27-30)](#middle-of-the-screen-element-13-18-and-27-30)
 
 ![I, Bucky](https://i.imgur.com/eeepxkL.jpg)
 
