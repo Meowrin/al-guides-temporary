@@ -156,30 +156,29 @@ As many as there are, collectively are all here. They are mainly divided to 2 ty
       4. General shop: **some items cost GEMS so read the price tag carefully before you buy,** the main Gold shop. Nothing special to say besides a *personal* general recommendation: Purple Food > Blue Food > Cubes > Red skill books > other skill books = Purple T3 Aux Plates > everything else. Note: I do NOT encourage buying T4 Gold Tech boxes EVER because the value proposition is so low with not only the rate of a gold gear being low but can also land on a useless gold equipment instead. Feel free to disagree, it's your gold after all, the game has a lot of gold sinks (LB, awakening, research, retrofits, enhancing equipment, Meowfficers, construction and this shop), you decide what to dump your gold into, not me.
       5. Event shop: Kinda straight forward, buy what you need with the event currency that you get from daily mission and grinding event maps, here's a *personal* general event shop purchasing guide (do note that you should ask a help chat for your specific situation, this is just for a blanket view because exclusive event gears have always been good or at least niche on one unit): Gold/Oil (during event) > Exclusive Gears > Ships if you don't have > Aux and any needed Plates > (Optional Boxes if lacking specific gears) > DR BPs >= PR BPs > Chips/SSR Cat boxes > (Gear Skins /s) > the rest
 
-####
+#### [Dockyard](https://azurlane.koumakan.jp/Dockyard), the wiki details everything already but TL;DR from Bottom to top:
 
-
-- **Element 20:** [The dockyard](https://azurlane.koumakan.jp/Dockyard), the wiki details everything already but TL;DR from Bottom to top:
-    1. Info: includes your ships stats, skills and overview of equipment. 
-        * EXP: When the ship reaches level 100/105/110/115, she can be awaken by tapping on the exp bar to further increase her level cap by 5. She can still gain **exp from sorties** into a bank (max 3 million) while being at the level cap.
-        * Skills: can be leveled in the Tactical Classroom.
-        * Gears: A gear sets button to the far right allows you to save your current gear loadout to quickly unequip/reequip all gears.
-        * Bottom part of the UI allow you to: change her Skins, view the ship details in the Archives (to listen to her various unlocked voicelines for example), Lock/Unlock, View the comments on her, Inspect the artwork, set her as Favorite
-    2. Gear: all ships have 5 equipment slots, what they can equip on each slot is listed here. 
-        * For all vanguard ships, they will have a main gun of their class sometimes they can use a smaller caliber gun, an secondary weapon, be it a torpedo mount or a DD gun depending on their SHIP class (not hull class), an AA gun or in the case of absent of it, a unique gear slot (e.g DB for Shirakami Fubuki) and 2 Auxiliary slots.
-        * For BB/BC/BBV/BM they have generally the same slots except their secondary can also be CL gun sometimes, replace the AA for a seaplane for BBV and they all use BB guns.
-        * For CVs and CVLs, they have their own plane loadout and their limit break perks complement that, a combination of Fighters, DBs, TBs (and/or AA gun for most CVLs) and 2 Aux Slots
-        * For ARs, they have 3 Aux Slots and 2 AA gun slots.
-        * **Efficiency:** This is an often overlooked stat but it directly relates to how much damage an equipment in that slot will do. In layman's term, a slot equipment is a factor in determining what a ship ideal loadout for a specific situation. ~~(Yes, I do in fact have 2-3 gold SBD and use them for 13-4 Taihou fight with torp meme CVs, fite me)~~  For exact damage calculations: refer to the [combat page](https://azurlane.koumakan.jp/Combat#Damage_Calculations) 
-    3. Limit Break: detailed in the [Limit Break Guide](Limit%20Break%20Guide.md)
-    4. Enhance: Quote from the wiki: 
-        - This screen allows other ships to be permanently consumed in order to boost the stats of the currently selected ship, up to 12 at a time. 
-        - The table at the top shows the current stats available for boosting (Firepower, Torpedo, Aircraft and Reload, depending on the type of weapons the ship is able to use). These bars will fill with EXP from merging ships that give boosts to those stats. This can be done to increase the stats up to their cap (which increases with every level and stops after level 100).
-        - Basically, do it often for the ships you are using, it is basically free stats from white ships that you gain from farming maps.
-    5. PR/DR ships: Prototype ships do not have their Limit Break and Enhance page but instead uses their PR/DR BPs to enhance their stats and gain a boost of stats and efficiency at Dev 5/15/25, similar LB perks at Dev 10/20/30. They also have their unique system called Fate Simulation that uses their BPs to further enhance their luck stat and finally enhances their skill at level 5.
-    6. [Retrofits:](https://azurlane.koumakan.jp/Dockyard#Retrofit) TL;DR: You spend gold and retrofit BPs obtained from **Hard Mode STORY maps** to retrofit the ships, giving them a slew of stats, slot efficiency, sometimes a new skill, changes their equipment slots or a Main gun Mount. Retrofit BPs drop are always
-        * X-1: Destroyer
-        * X-2: Cruiser
-        * X-3: Battleship
-        * X-4: Carrier
-- **Element 21:**
+  - Info: includes your ships stats, skills and overview of equipment:
+    * EXP: When the ship reaches level 100/105/110/115, she can be awaken by tapping on the exp bar to further increase her level cap by
+    5. She can still gain **exp from sorties** into a bank (max 3 million) while being at the level cap.
+    * Skills: can be leveled in the Tactical Classroom.
+    * Gears: A gear sets button to the far right allows you to save your current gear loadout to quickly unequip/reequip all gears.
+    * Bottom part of the UI allow you to: change her Skins, view the ship details in the Archives (to listen to her various unlocked voicelines for example), Lock/Unlock, View the comments on her, Inspect the artwork, set her as Favorite
+    
+  - Gear: all ships have 5 equipment slots, what they can equip on each slot is listed here. 
+    - For all vanguard ships, they will have a main gun of their class sometimes they can use a smaller caliber gun, an secondary weapon, be it a torpedo mount or a DD gun depending on their SHIP class (not hull class), an AA gun or in the case of absent of it, a unique gear slot (e.g DB for Shirakami Fubuki) and 2 Auxiliary slots.
+    - For BB/BC/BBV/BM they have generally the same slots except their secondary can also be CL gun sometimes, replace the AA for a seaplane for BBV and they all use BB guns.
+    - For CVs and CVLs, they have their own plane loadout and their limit break perks complement that, a combination of Fighters, DBs, TBs (and/or AA gun for most CVLs) and 2 Aux Slots
+    - For ARs, they have 3 Aux Slots and 2 AA gun slots.
+    - **Efficiency:** This is an often overlooked stat but it directly relates to how much damage an equipment in that slot will do. In layman's term, a slot equipment is a factor in determining what a ship ideal loadout for a specific situation. ~~(Yes, I do in fact have 2-3 gold SBD and use them for 13-4 Taihou fight with torp meme CVs, fite me)~~  For exact damage calculations: refer to the [combat page](https://azurlane.koumakan.jp/Combat#Damage_Calculations) 
+  - Limit Break: detailed in the [Limit Break Guide](Limit%20Break%20Guide.md)
+  - Enhance: Quote from the wiki: 
+    - This screen allows other ships to be permanently consumed in order to boost the stats of the currently selected ship, up to 12 at a time. 
+    - The table at the top shows the current stats available for boosting (Firepower, Torpedo, Aircraft and Reload, depending on the type of weapons the ship is able to use). These bars will fill with EXP from merging ships that give boosts to those stats. This can be done to increase the stats up to their cap (which increases with every level and stops after level 100).
+    - Basically, do it often for the ships you are using, it is basically free stats from white ships that you gain from farming maps.
+  - PR/DR ships: Prototype ships do not have their Limit Break and Enhance page but instead uses their PR/DR BPs to enhance their stats and gain a boost of stats and efficiency at Dev 5/15/25, similar LB perks at Dev 10/20/30. They also have their unique system called Fate Simulation that uses their BPs to further enhance their luck stat and finally enhances their skill at level 5.
+  - [Retrofits:](https://azurlane.koumakan.jp/Dockyard#Retrofit) TL;DR: You spend gold and retrofit BPs obtained from **Hard Mode STORY maps** to retrofit the ships, giving them a slew of stats, slot efficiency, sometimes the following: a new skill and/or enhance their existing one, changes their equipment slots to even another Main gun Mount. Retrofit BPs drop are always based on the map you run:
+    - X-1: Destroyer
+    - X-2: Cruiser
+    - X-3: Battleship
+    - X-4: Carrier
