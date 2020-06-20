@@ -109,7 +109,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
     * **Jukebox:** Music collection. Listen to the BGM here if you haven't gotten tired of it already.
 - **Element 8:** Ranking a.k.a tryhard zone: Fleet power, Collection ratio, Exercise, Total event currency, Challenge Mode and event EX map all have rankings here.
 - **Element 9:** Friends interface, rarely useful, add friend to slide into their DMs or visit their dorm.
-- **Element 10:** Mail box, maintenance compensation, Exercise (PvP) promotion rewards, monthly pass are sent here.
+- **Element 10:** Mail box, maintenance compensation, Exercise (PvP) promotion rewards, monthly pass are sent here. Mails do **NOT** have an expiration date and you can save the resources here for a rainy day when you need it. 
 - **Element 11:** Notice a.k.a the announcement/patch note page everyone immediately close upon logging in the game, you can review it here.
 - **Element 12:** Settings has the following
     * **Account** has your Account binding and secondary password to prevent others from unlocking ships or scrapped enhanced equipment
