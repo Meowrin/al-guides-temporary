@@ -104,6 +104,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   * **Dormitory slots: The 3rd dorm slot cost 300 gems, 4th cost 500 gems, 5th cost 800 gems and 6th cost 1200 gems.** The 2nd floor, which can be unlocked after you have fully expanded using furniture coins, cost **500 gems** and only provide morale regeneration and no exp gains. The 6th slot cost a lot and could be optionally skipped.
   * **Dock space expansion:** cost 200 gems per 10 slots until the 2000 dock space, after which it will cost 300 gems per 10 slots up to the cap of 3000 dock space.
   * Academy 3rd slot unlock: cost 500 gems and not that needed since you *eventually* don't need to raise so many skills as the main bottleneck is skill books).
+  * There are always consumables to spend gems on such as oil refills, skins, pledge rings, etc
 
 ### Right side bar (element 7-12)
 - **Element 7:** This is the memento section, including the following ordered from top to bottom: ![](https://i.imgur.com/xZ1nmjz.png)
