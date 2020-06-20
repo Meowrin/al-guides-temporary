@@ -72,6 +72,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   * Limit Break: LB (all ships have 3 LB level: LB1, LB2 and LB3 or Max LB = MLB)
   * Blueprints: as there are many type of blueprints in the game, from PR ship blueprints to equipment blueprints, they are all collectively called BPs
   * Research ships and blueprints are collectively called PR (prototype)
+  * Upgrade Parts are generally called Plates instead, e.g Torp Plates instead of Torpedo Parts, AA Plates instead of Anti-Air Gun Part,  Aux Plates instead of General Parts. Why is General Parts called Aux Plates? Because Auxiliary Equipment, the 2 slots that all ships have (3 for ARs), are upgraded with General Parts so it becomes Aux Plates.
 </details>
 
 ## Main UI Explanation:
