@@ -60,10 +60,10 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 - Submarines
   * Submarines: SS ![SS](/resources/45px-SS_img40.png)
   * Submarine Carriers: SSV ![SSV](/resources/45px-SSV_img40.png)
-  * The ship hull class can be intuited through their icons but some just have downright the same icon therefore the only way to know what ship is in what hull class is in their ship profile in the dock. Explained later in the Dock section.
+- The ship hull class can be intuited through their icons but some just have downright the same icon therefore the only way to know what ship is in what hull class is in their ship profile in the dock. Explained later in the Dock section.
 - What does all this even mean? 
      1. Vanguard ships including: DD, CL, CA and CB are your "frontline" ships, the ones that you actually control with your joystick. 
-     2. Main fleet ships including: BB, BC, BBV, BM, CV, CVL and AR are your "backline" ships, who provide Artillery support fire and/or Airstrikes (BBVs provide both for example). 
+     2. Main fleet ships including: BB, BC, BBV, BM, CV, CVL and AR are your "backline" ships, who provide Artillery support fire and/or Airstrikes (BBVs provide both). 
      3. Submarine fleet including SS and SSV is another can of worm, unlocked after you clear chapter 3 map 4. A detailed guide about Submarines, Anti-submarine Warfare (ASW) and Rescue Missions can be found [here made by pootatoast](https://azurlane.koumakan.jp/User:Itsfyh/Submarines) (also in the helpful resources section of the readme)
 </details>
 <details>
