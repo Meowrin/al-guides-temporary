@@ -77,8 +77,8 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 ## Main UI Explanation:
 - [Top bar (element 1-6)](#top-bar-element-1-6)
 - [Right side bar (element 7-12)](#right-side-bar-element-7-12)
-- [Bottom bar (element 19-26)](#bottom-bar-element-19-26)
 - [Middle of the screen (element 13-18 and 27-30)](#middle-of-the-screen-element-13-18-and-27-30)
+- [Bottom bar (element 19-26)](#bottom-bar-element-19-26)
 
 ![I, Bucky](https://i.imgur.com/eeepxkL.jpg)
 
@@ -104,7 +104,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
     * **Retrofit** contains all retrofitted version of ships, also has a filter on the top right.
     * Note: Collection ratio includes all archives and retrofits *EXCEPT* collab ships
     * [**Bands (also known as Collection)**](https://azurlane.koumakan.jp/List_of_Collections) is a particular collection goal that rewards gems, dorm furniture, unique equipment or unlock exclusive ships. It is recommended to finish the Beaver Squad collection ASAP (LB2 at minimum level 30, all 5 ships is enough stars) because it gives one of the best evasion boosting auxiliary equipment in the game.
-    * [**Memories:**]((https://azurlane.koumakan.jp/Memories) Cutscenes collection, you can rewatch all previously seen cutscenes here. If you scroll to the bottom or click on the Ships filter in the top right, you can find all the ships that has secretary questlines unique to them, to start it, set them as secretary in any slot and click on them. Except Akashi who has a longer questline to unlock her, details can be found [here](https://azurlane.koumakan.jp/Akashi/Questline)
+    * [**Memories:**](https://azurlane.koumakan.jp/Memories) Cutscenes collection, you can rewatch all previously seen cutscenes here. If you scroll to the bottom or click on the Ships filter in the top right, you can find all the ships that has secretary questlines unique to them, to start it, set them as secretary in any slot and click on them. Except Akashi who has a longer questline to unlock her, details can be found [here](https://azurlane.koumakan.jp/Akashi/Questline)
     * Gallery: Artwork collection. Some Loading screens and Intro artwork can be found here. No requirement to unlock them, you just need to download them individually to view them.
     * Jukebox: Music collection. Listen to the BGM here if you haven't gotten tired of it already.
 - **Element 8:** Ranking a.k.a tryhard zone: Fleet power, Collection ratio, Exercise, Total event currency, Challenge Mode and event EX map all have rankings here.
