@@ -99,14 +99,14 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   * Academy 3rd slot unlock: cost 500 gems and not that needed since you *eventually* don't need to raise so many skills as the main bottleneck is skill books).
 
 ### Right side bar (element 7-12)
-- **Element 7:** This is the memento section, including the following ordered from top to bottom: 
+- **Element 7:** This is the memento section, including the following ordered from top to bottom: ![](https://i.imgur.com/xZ1nmjz.png)
     * **Archives** showcases all collectible ships ships in the game, with a handy filter in the top right.
     * **Retrofit** contains all retrofitted version of ships, also has a filter on the top right.
     * Note: Collection ratio includes all archives and retrofits *EXCEPT* collab ships
     * [**Bands (also known as Collection)**](https://azurlane.koumakan.jp/List_of_Collections) is a particular collection goal that rewards gems, dorm furniture, unique equipment or unlock exclusive ships. It is recommended to finish the Beaver Squad collection ASAP (LB2 at minimum level 30, all 5 ships is enough stars) because it gives one of the best evasion boosting auxiliary equipment in the game.
     * [**Memories:**](https://azurlane.koumakan.jp/Memories) Cutscenes collection, you can rewatch all previously seen cutscenes here. If you scroll to the bottom or click on the Ships filter in the top right, you can find all the ships that has secretary questlines unique to them, to start it, set them as secretary in any slot and click on them. Except Akashi who has a longer questline to unlock her, details can be found [here](https://azurlane.koumakan.jp/Akashi/Questline)
-    * Gallery: Artwork collection. Some Loading screens and Intro artwork can be found here. No requirement to unlock them, you just need to download them individually to view them.
-    * Jukebox: Music collection. Listen to the BGM here if you haven't gotten tired of it already.
+    * **Gallery:** Artwork collection. Some Loading screens and Intro artwork can be found here. No requirement to unlock them, you just need to download them individually to view them.
+    * **Jukebox:** Music collection. Listen to the BGM here if you haven't gotten tired of it already.
 - **Element 8:** Ranking a.k.a tryhard zone: Fleet power, Collection ratio, Exercise, Total event currency, Challenge Mode and event EX map all have rankings here.
 - **Element 9:** Friends interface, rarely useful, add friend to slide into their DMs or visit their dorm.
 - **Element 10:** Mail box, maintenance compensation, Exercise (PvP) promotion rewards, monthly pass are sent here.
