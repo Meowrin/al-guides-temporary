@@ -138,3 +138,40 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 
 ### Bottom bar (element 19-26)
 
+- **Element 19:** the shops, as many as there are, collectively are all here. They are mainly divided to 2 type: the ~~scam cat/whale~~ gem shop a.k.a [Akashi's shop](https://azurlane.koumakan.jp/Akashi%27s_Shop) and all the other currency - the Munition shop a.k.a [Shiranui's shop](https://azurlane.koumakan.jp/Shops).
+    * [Akashi's shop](https://azurlane.koumakan.jp/Akashi%27s_Shop) includes:
+        1. Skin shop: sells skins obviously, some skins are L2D that cost a bit more but now you can admire your waifus as if they are 3D than as a 2D png.
+        2. Gems shop: you can refill your gem stock using real world money. The monthly pass is also here which has the "best" value. All other gems pack has a first buy double bonus **which RESET every year on the anniversary**
+        3. Packs shop: the wiki list all the packs already. Nothing more to say about it besides: *Ring pack OP*
+        4. Items shop: the wiki, besides listing all the items, also includes an oil refill price list
+        5. [**Akashi's Gift:**](https://azurlane.koumakan.jp/Akashi%27s_Shop#Akashi.27s_Gifts) this is important, you should get all the rewards from Akashi even if you are F2P by just tapping on her twice a day.
+    * [Shiranui's shop](https://azurlane.koumakan.jp/Shops) includes: 
+        1. Prototype shop: quote from the wiki: "Allows you to turn shipgirl blueprints of PR ships which are Developer Level 30 into Prototype Core's to invest into other PR ship blueprints or weapon blueprints.". Basically end-game stuffs, PR gives 5 cores each, DR gives 20 cores each.
+        2. Core Data shop: Core Data drops from **Hard mode STORY map** *NOT events*, some daily/weekly missions or events. Core Data gears are generally good, refer to the [Core Data Guide](Core%20Data%20Guide.md) for an extensive recommendation.
+        3. Merit shop: (a.k.a Gold Bulin shop) Exercise or PvP currency shop, nothing worth much here: the occasional cubes, gold bulins, purple bulins if need be, T4 tech boxes are also nice to kickstart your early-mid game. The 3 ships: Albacore (SS), South Dakota (BB), Eldrige(DD) are all decent, you will eventually get them for your collection but for the early-mid game, you can safely ignore them.
+        4. General shop: **some items cost GEMS so read the price tag carefully before you buy,** the main Gold shop. Nothing special to say besides a *personal* general recommendation: Purple Food > Blue Food > Cubes > Red skill books > other skill books = Purple T3 Aux Plates > everything else. Note: I do NOT encourage buying T4 Gold Tech boxes EVER because the value proposition is so low with not only the rate of a gold gear being low but can also land on a useless gold equipment instead. Feel free to disagree, it's your gold after all, the game has a lot of gold sinks (LB, awakening, research, retrofits, enhancing equipment, Meowfficers, construction and this shop), you decide what to dump your gold into, not me.
+        5. Event shop: Kinda straight forward, buy what you need with the event currency that you get from daily mission and grinding event maps, here's a *personal* general event shop purchasing guide (do note that you should ask a help chat for your specific situation, this is just for a blanket view because exclusive event gears have always been good or at least niche on one unit): Gold/Oil (during event) > Exclusive Gears > Ships if you don't have > Aux and any needed Plates > (Optional Boxes if lacking specific gears) > DR BPs >= PR BPs > Chips/SSR Cat boxes > (Gear Skins /s) > the rest
+- **Element 20:** [The dockyard](https://azurlane.koumakan.jp/Dockyard), the wiki details everything already but TL;DR from Bottom to top:
+    1. Info: includes your ships stats, skills and overview of equipment. 
+        * EXP: When the ship reaches level 100/105/110/115, she can be awaken by tapping on the exp bar to further increase her level cap by 5. She can still gain **exp from sorties** into a bank (max 3 million) while being at the level cap.
+        * Skills: can be leveled in the Tactical Classroom.
+        * Gears: A gear sets button to the far right allows you to save your current gear loadout to quickly unequip/reequip all gears.
+        * Bottom part of the UI allow you to: change her Skins, view the ship details in the Archives (to listen to her various unlocked voicelines for example), Lock/Unlock, View the comments on her, Inspect the artwork, set her as Favorite
+    2. Gear: all ships have 5 equipment slots, what they can equip on each slot is listed here. 
+        * For all vanguard ships, they will have a main gun of their class sometimes they can use a smaller caliber gun, an secondary weapon, be it a torpedo mount or a DD gun depending on their SHIP class (not hull class), an AA gun or in the case of absent of it, a unique gear slot (e.g DB for Shirakami Fubuki) and 2 Auxiliary slots.
+        * For BB/BC/BBV/BM they have generally the same slots except their secondary can also be CL gun sometimes, replace the AA for a seaplane for BBV and they all use BB guns.
+        * For CVs and CVLs, they have their own plane loadout and their limit break perks complement that, a combination of Fighters, DBs, TBs (and/or AA gun for most CVLs) and 2 Aux Slots
+        * For ARs, they have 3 Aux Slots and 2 AA gun slots.
+        * **Efficiency:** This is an often overlooked stat but it directly relates to how much damage an equipment in that slot will do. In layman's term, a slot equipment is a factor in determining what a ship ideal loadout for a specific situation. ~~(Yes, I do in fact have 2-3 gold SBD and use them for 13-4 Taihou fight with torp meme CVs, fite me)~~  For exact damage calculations: refer to the [combat page](https://azurlane.koumakan.jp/Combat#Damage_Calculations) 
+    3. Limit Break: detailed in the [Limit Break Guide](Limit%20Break%20Guide.md)
+    4. Enhance: Quote from the wiki: 
+        - This screen allows other ships to be permanently consumed in order to boost the stats of the currently selected ship, up to 12 at a time. 
+        - The table at the top shows the current stats available for boosting (Firepower, Torpedo, Aircraft and Reload, depending on the type of weapons the ship is able to use). These bars will fill with EXP from merging ships that give boosts to those stats. This can be done to increase the stats up to their cap (which increases with every level and stops after level 100).
+        - Basically, do it often for the ships you are using, it is basically free stats from white ships that you gain from farming maps.
+    5. PR/DR ships: Prototype ships do not have their Limit Break and Enhance page but instead uses their PR/DR BPs to enhance their stats and gain a boost of stats and efficiency at Dev 5/15/25, similar LB perks at Dev 10/20/30. They also have their unique system called Fate Simulation that uses their BPs to further enhance their luck stat and finally enhances their skill at level 5.
+    6. [Retrofits:](https://azurlane.koumakan.jp/Dockyard#Retrofit) TL;DR: You spend gold and retrofit BPs obtained from **Hard Mode STORY maps** to retrofit the ships, giving them a slew of stats, slot efficiency, sometimes a new skill, changes their equipment slots or a Main gun Mount. Retrofit BPs drop are always
+        * X-1: Destroyer
+        * X-2: Cruiser
+        * X-3: Battleship
+        * X-4: Carrier
+- **Element 21:**
