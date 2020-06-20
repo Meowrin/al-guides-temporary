@@ -138,19 +138,27 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 
 ### Bottom bar (element 19-26)
 
-- **Element 19:** the shops, as many as there are, collectively are all here. They are mainly divided to 2 type: the ~~scam cat/whale~~ gem shop a.k.a [Akashi's shop](https://azurlane.koumakan.jp/Akashi%27s_Shop) and all the other currency - the Munition shop a.k.a [Shiranui's shop](https://azurlane.koumakan.jp/Shops).
-    * [Akashi's shop](https://azurlane.koumakan.jp/Akashi%27s_Shop) includes:
-        1. Skin shop: sells skins obviously, some skins are L2D that cost a bit more but now you can admire your waifus as if they are 3D than as a 2D png.
-        2. Gems shop: you can refill your gem stock using real world money. The monthly pass is also here which has the "best" value. All other gems pack has a first buy double bonus **which RESET every year on the anniversary**
-        3. Packs shop: the wiki list all the packs already. Nothing more to say about it besides: *Ring pack OP*
-        4. Items shop: the wiki, besides listing all the items, also includes an oil refill price list
-        5. [**Akashi's Gift:**](https://azurlane.koumakan.jp/Akashi%27s_Shop#Akashi.27s_Gifts) this is important, you should get all the rewards from Akashi even if you are F2P by just tapping on her twice a day.
-    * [Shiranui's shop](https://azurlane.koumakan.jp/Shops) includes: 
-        1. Prototype shop: quote from the wiki: "Allows you to turn shipgirl blueprints of PR ships which are Developer Level 30 into Prototype Core's to invest into other PR ship blueprints or weapon blueprints.". Basically end-game stuffs, PR gives 5 cores each, DR gives 20 cores each.
-        2. Core Data shop: Core Data drops from **Hard mode STORY map** *NOT events*, some daily/weekly missions or events. Core Data gears are generally good, refer to the [Core Data Guide](Core%20Data%20Guide.md) for an extensive recommendation.
-        3. Merit shop: (a.k.a Gold Bulin shop) Exercise or PvP currency shop, nothing worth much here: the occasional cubes, gold bulins, purple bulins if need be, T4 tech boxes are also nice to kickstart your early-mid game. The 3 ships: Albacore (SS), South Dakota (BB), Eldrige(DD) are all decent, you will eventually get them for your collection but for the early-mid game, you can safely ignore them.
-        4. General shop: **some items cost GEMS so read the price tag carefully before you buy,** the main Gold shop. Nothing special to say besides a *personal* general recommendation: Purple Food > Blue Food > Cubes > Red skill books > other skill books = Purple T3 Aux Plates > everything else. Note: I do NOT encourage buying T4 Gold Tech boxes EVER because the value proposition is so low with not only the rate of a gold gear being low but can also land on a useless gold equipment instead. Feel free to disagree, it's your gold after all, the game has a lot of gold sinks (LB, awakening, research, retrofits, enhancing equipment, Meowfficers, construction and this shop), you decide what to dump your gold into, not me.
-        5. Event shop: Kinda straight forward, buy what you need with the event currency that you get from daily mission and grinding event maps, here's a *personal* general event shop purchasing guide (do note that you should ask a help chat for your specific situation, this is just for a blanket view because exclusive event gears have always been good or at least niche on one unit): Gold/Oil (during event) > Exclusive Gears > Ships if you don't have > Aux and any needed Plates > (Optional Boxes if lacking specific gears) > DR BPs >= PR BPs > Chips/SSR Cat boxes > (Gear Skins /s) > the rest
+Each of this is a section of its own due to their content. Some are just so long I kinda give up giving a run down since the details are on the wiki and the game does a sufficient job of explaining it.
+
+#### Shops
+
+As many as there are, collectively are all here. They are mainly divided to 2 type: the ~~scam cat/whale~~ gem shop a.k.a [Akashi's shop](https://azurlane.koumakan.jp/Akashi%27s_Shop) and all the other currency - the Munition shop a.k.a [Shiranui's shop](https://azurlane.koumakan.jp/Shops).
+  * [Akashi's shop](https://azurlane.koumakan.jp/Akashi%27s_Shop) includes:
+      1. Skin shop: sells skins obviously, some skins are L2D that cost a bit more but now you can admire your waifus as if they are 3D than as a 2D png.
+      2. Gems shop: you can refill your gem stock using real world money. The monthly pass is also here which has the "best" value. All other gems pack has a first buy double bonus **which RESET every year on the anniversary**
+      3. Packs shop: the wiki list all the packs already. Nothing more to say about it besides: *Ring pack OP*
+      4. Items shop: the wiki, besides listing all the items, also includes an oil refill price list
+      5. [**Akashi's Gift:**](https://azurlane.koumakan.jp/Akashi%27s_Shop#Akashi.27s_Gifts) this is important, you should get all the rewards from Akashi even if you are F2P by just tapping on her twice a day.
+  * [Shiranui's shop](https://azurlane.koumakan.jp/Shops) includes: 
+      1. Prototype shop: quote from the wiki: "Allows you to turn shipgirl blueprints of PR ships which are Developer Level 30 into Prototype Core's to invest into other PR ship blueprints or weapon blueprints.". Basically end-game stuffs, PR gives 5 cores each, DR gives 20 cores each.
+      2. Core Data shop: Core Data drops from **Hard mode STORY map** *NOT events*, some daily/weekly missions or events. Core Data gears are generally good, refer to the [Core Data Guide](Core%20Data%20Guide.md) for an extensive recommendation.
+      3. Merit shop: (a.k.a Gold Bulin shop) Exercise or PvP currency shop, nothing worth much here: the occasional cubes, gold bulins, purple bulins if need be, T4 tech boxes are also nice to kickstart your early-mid game. The 3 ships: Albacore (SS), South Dakota (BB), Eldrige(DD) are all decent, you will eventually get them for your collection but for the early-mid game, you can safely ignore them.
+      4. General shop: **some items cost GEMS so read the price tag carefully before you buy,** the main Gold shop. Nothing special to say besides a *personal* general recommendation: Purple Food > Blue Food > Cubes > Red skill books > other skill books = Purple T3 Aux Plates > everything else. Note: I do NOT encourage buying T4 Gold Tech boxes EVER because the value proposition is so low with not only the rate of a gold gear being low but can also land on a useless gold equipment instead. Feel free to disagree, it's your gold after all, the game has a lot of gold sinks (LB, awakening, research, retrofits, enhancing equipment, Meowfficers, construction and this shop), you decide what to dump your gold into, not me.
+      5. Event shop: Kinda straight forward, buy what you need with the event currency that you get from daily mission and grinding event maps, here's a *personal* general event shop purchasing guide (do note that you should ask a help chat for your specific situation, this is just for a blanket view because exclusive event gears have always been good or at least niche on one unit): Gold/Oil (during event) > Exclusive Gears > Ships if you don't have > Aux and any needed Plates > (Optional Boxes if lacking specific gears) > DR BPs >= PR BPs > Chips/SSR Cat boxes > (Gear Skins /s) > the rest
+
+####
+
+
 - **Element 20:** [The dockyard](https://azurlane.koumakan.jp/Dockyard), the wiki details everything already but TL;DR from Bottom to top:
     1. Info: includes your ships stats, skills and overview of equipment. 
         * EXP: When the ship reaches level 100/105/110/115, she can be awaken by tapping on the exp bar to further increase her level cap by 5. She can still gain **exp from sorties** into a bank (max 3 million) while being at the level cap.
