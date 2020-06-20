@@ -29,15 +29,15 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 <details>
   <summary> Factions </summary>
   
-  * Sakura Empire: IJN (Japan)
-  * Eagle Union: USS (United States of America)
-  * Royal Navy: HMS (Great Britain)
-  * Ironblood: KMS (Germany)
-  * Eastern Radiance: ROC/PRAN (China)
-  * North Union: SN (Russia)
-  * Iris Libre: FFNF (Free France)
-  * Vichya Dominion: MNF (Occupied France)
-  * Sardegna Empire: RN (Italy)
+  * Sakura Empire: IJN
+  * Eagle Union: USS
+  * Royal Navy: HMS
+  * Ironblood: KMS
+  * Eastern Radiance: ROC/PRAN
+  * North Union: SN
+  * Iris Libre: FFNF
+  * Vichya Dominion: MNF
+  * Sardegna Empire: RN
   * There's also 2 common names for gears: SKC for German equipment and MLE for France equipment. Because these are present in the name so it's a bit more intuitive like that.
 </details>
 
