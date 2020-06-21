@@ -195,8 +195,25 @@ Equipment of all sort goes here split into 3 tabs on the bottom right:
     * Disassembly (a.k.a scrapping) mode: enter by pressing the disassemble button on the bottom right to mass scrap up to 40 pieces of equipment at a time. 
     * Click on this button ![](https://i.imgur.com/ZlkaoJz.png) to have a rough understanding of weapon diameters.
     * Toggling the equipped button to see all currently equipped gears as well. 
-    * 
+    * Sort gears on the top right by slots, type, rarity and enhance level
     * Base depot capacity is 300 slots, you can expand it by 20 slots for 100 gems through the [Akashi's Shop](#Shops)
+    * Enhance cost can be found on the wiki link
+  - [**Designs:**](https://azurlane.koumakan.jp/Equipment#Design) This is where you craft equipment BPs you get from running maps, researches into full pieces of equipment that you can use.  
   
   ![](https://i.imgur.com/pgiqmFh.png)
-    * 
+   
+#### HQ:
+HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
+#### [**Academy:**] 
+unlocked upon clearing the tutorial, includes: 
+  * [**Lecture Hall:**](https://azurlane.koumakan.jp/Living_Area#Lecture_Hall) The wiki will provide all the information needed so I'll just go over some of the key points:
+    1. Unlocked at HQ/commander level 50 and can be upgraded every 5 levels after.
+    2. Only MLB level 100+ ships can generate proficiency ONLY from sorties.
+    3. Lecture runs for 12 hours. 
+    4. The consumed XP is calculated at the time the lecture is claimed. This means that even if you start the lecture with little XP in the bar but earn XP while the lecture is ongoing, that XP will be consumed and given to the ships in the lecture.
+    5. Ships in the Dorm cannot participate in Lectures. Lectures do not prevent participation in any other activities (like sorties or commissions).
+    6. Lectures drain morale slowly to 0. Ships with low morale cannot participate.
+      
+  * [**Tactical Class:**](https://azurlane.koumakan.jp/Living_Area#Tactical_Class) a.k.a Skill training. You start with 2 slots and can unlock the 3rd slot with 500 gems. Using proper skill books for the skill gives a +50% exp. **Tips on skill training and skill books:**
+    - When starting out, level skills to level 6-7 across the board barring exceptions (e.g Portland's Red skill) b4 deciding to level one to level 10. Skills that is most commonly recommended to level to 10 1st after that are barrage skills, damage buffs (e.g Enty's only skill), fleet stat buff (e.g Leander's Yellow skill).
+    - 
