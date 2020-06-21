@@ -141,7 +141,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 
 Each of this is a section of its own due to their content. Some are just so long I kinda give up giving a run down since the details are on the wiki and the game does a sufficient job of explaining it.
 
-#### Shops
+### Shops
 
 As many as there are, collectively are all here. They are mainly divided to 2 type: the ~~scam cat/whale~~ gem shop a.k.a [Akashi's shop](https://azurlane.koumakan.jp/Akashi%27s_Shop) and all the other currency - the Munition shop a.k.a [Shiranui's shop](https://azurlane.koumakan.jp/Shops).
   * [Akashi's shop](https://azurlane.koumakan.jp/Akashi%27s_Shop) includes:
@@ -157,7 +157,7 @@ As many as there are, collectively are all here. They are mainly divided to 2 ty
       4. General shop: **some items cost GEMS so read the price tag carefully before you buy,** the main Gold shop. Nothing special to say besides a *personal* general recommendation: Purple Food > Blue Food > Cubes > Red skill books > other skill books = Purple T3 Aux Plates > everything else. Note: I do NOT encourage buying T4 Gold Tech boxes EVER because the value proposition is so low with not only the rate of a gold gear being low but can also land on a useless gold equipment instead. Feel free to disagree, it's your gold after all, the game has a lot of gold sinks (LB, awakening, research, retrofits, enhancing equipment, Meowfficers, construction and this shop), you decide what to dump your gold into, not me.
       5. Event shop: Kinda straight forward, buy what you need with the event currency that you get from daily mission and grinding event maps, here's a *personal* general event shop purchasing guide (do note that you should ask a help chat for your specific situation, this is just for a blanket view because exclusive event gears have always been good or at least niche on one unit): Gold/Oil (during event) > Exclusive Gears > Ships if you don't have > Aux and any needed Plates > (Optional Boxes if lacking specific gears) > DR BPs >= PR BPs > Chips/SSR Cat boxes > (Gear Skins /s) > the rest
 
-#### [Dockyard](https://azurlane.koumakan.jp/Dockyard), the wiki details everything already but TL;DR from Bottom to top:
+### [Dockyard](https://azurlane.koumakan.jp/Dockyard)
   
   ![](https://i.imgur.com/BGJKMMF.png)
   - Info: includes your ships stats, skills and overview of equipment:
@@ -184,7 +184,7 @@ As many as there are, collectively are all here. They are mainly divided to 2 ty
      - X-3: Battleship
      - X-4: Carrier
 
-#### Depot
+### [Depot](https://azurlane.koumakan.jp/Equipment)
 Equipment of all sort goes here split into 3 tabs on the bottom right:
   - **Items:** your storage for food, medals, cubes, quick finishers, tech boxes, plates, skill books retrofit and PR BPs and other commemorative and miscellaneous items. There's an assortment of things in here but there isn't a cap on how much you can store so don't fret on it. **Tip on using Tech boxes:**
     * T1 can be combined to T2 and T2 to T3 at a ratio of 6:1. You cannot craft T4 boxes however.
@@ -202,10 +202,9 @@ Equipment of all sort goes here split into 3 tabs on the bottom right:
   
   ![](https://i.imgur.com/pgiqmFh.png)
    
-#### HQ:
+### HQ:
 HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
 #### [**Academy:**] 
-unlocked upon clearing the tutorial, includes: 
   * [**Lecture Hall:**](https://azurlane.koumakan.jp/Living_Area#Lecture_Hall) The wiki will provide all the information needed so I'll just go over some of the key points:
     1. Unlocked at HQ/commander level 50 and can be upgraded every 5 levels after.
     2. Only MLB level 100+ ships can generate proficiency ONLY from sorties.
