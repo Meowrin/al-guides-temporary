@@ -179,10 +179,10 @@ As many as there are, collectively are all here. They are mainly divided to 2 ty
     - Basically, do it often for the ships you are using, it is basically free stats from white ships that you gain from farming maps.
   - Unique for PR/DR ships: Prototype ships do not have their Limit Break and Enhance page but instead uses their PR/DR BPs to enhance their stats and gain a boost of stats and efficiency at Dev 5/15/25, similar LB perks at Dev 10/20/30. They also have their unique system called Fate Simulation that uses their BPs to further enhance their luck stat and finally enhances their skill at level 5.
   -  [Retrofits:](https://azurlane.koumakan.jp/Dockyard#Retrofit) TL;DR: You spend gold and retrofit BPs obtained from **Hard Mode STORY maps** to retrofit the ships, giving them a slew of stats, slot efficiencies, sometimes the following: a new skill and/or enhance their existing one, changes their equipment slots to other LB perks. Retrofit BPs drop are always based on the map you run:
-    - X-1: Destroyer
-    - X-2: Cruiser
-    - X-3: Battleship
-    - X-4: Carrier
+     - X-1: Destroyer
+     - X-2: Cruiser
+     - X-3: Battleship
+     - X-4: Carrier
 
 #### Depot
 Equipment of all sort goes here split into 3 tabs on the bottom right:
