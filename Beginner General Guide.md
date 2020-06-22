@@ -226,5 +226,6 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
       3. Defensive skills: There are many good ones I can list off but defensive skills by itself are rarer and those that focuses too much on it in returns does less damage. **Turtling doesn't clear maps, damage does.** On some cases, you can outright ignore them till much later. 
     - Proceed to level skills you deem important (BB/BC Barrages amongst others) to 10 before moving on to the next ship
     - Skill books recommendation:
-      1. Having something leveling is better than not. 
-      2. When you start out, skill books are rare, you can spend blue skill books into red books as well
+      1. When you start out (a.k.a below HQ 70), skill books are harder to get. Therefore having something leveling is better than not. 
+      2. You can use blue skill books to level red skills, it is perfectly fine, you have generally more red skills to level than blue skills most of the time anyways.
+      3. When you start having a surplus of T1 books, it is recommended to combine them because opportunity cost, time cost and for convenience sake. Personally I haven't used a T1 book ever since HQ 75 because I'd rather use a T2 blue book instead of micro-manage using 2 T1 red books for the same amount of exp.
