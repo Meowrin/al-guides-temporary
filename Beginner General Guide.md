@@ -75,6 +75,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
     - Torpedo Bombers: TB
     - Anti-air Gun: AA
   * Limit Break: LB (all ships have 3 LB level: LB1, LB2 and LB3 or Max LB = MLB)
+  * All vanguard ships EXCEPT Collab ships have a skill, that is unlocked and upgraded by Limit Breaking, called All-out Assault: AOA for short.
   * Blueprints: as there are many type of blueprints in the game, from PR ship blueprints to equipment blueprints, they are all collectively called BPs
   * Research ships and blueprints are collectively called PR (prototype) so PR BPs generally refers to PR ship BP (the currency to enhance PR ships)
   * Cognitive Chips (Mental Units): are often shorthanded to Chips or Cog Chips. ~~what I'd like to call Mindbreaker Juice~~ 
@@ -198,13 +199,15 @@ Equipment of all sort goes here split into 3 tabs on the bottom right:
     * Sort gears on the top right by slots, type, rarity and enhance level
     * Base depot capacity is 300 slots, you can expand it by 20 slots for 100 gems through the [Akashi's Shop](#Shops)
     * Enhance cost can be found on the wiki link
-  - [**Designs:**](https://azurlane.koumakan.jp/Equipment#Design) This is where you craft equipment BPs you get from running maps, researches into full pieces of equipment that you can use.  
+  - [**Designs:**](https://azurlane.koumakan.jp/Equipment#Design) This is where you craft equipment BPs you get from running maps, researches into full pieces of equipment that you can use. Some Gold gear from research requires 25 BPs and 500 gold instead of the usual 15 BPs, 200 gold
   
   ![](https://i.imgur.com/pgiqmFh.png)
    
 ### HQ:
 HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
-#### [**Academy:**] 
+#### **Academy:**
+  
+  ![](https://i.imgur.com/ifIMStn.jpg)
   * [**Lecture Hall:**](https://azurlane.koumakan.jp/Living_Area#Lecture_Hall) The wiki will provide all the information needed so I'll just go over some of the key points:
     1. Unlocked at HQ/commander level 50 and can be upgraded every 5 levels after.
     2. Only MLB level 100+ ships can generate proficiency ONLY from sorties.
@@ -214,5 +217,14 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
     6. Lectures drain morale slowly to 0. Ships with low morale cannot participate.
       
   * [**Tactical Class:**](https://azurlane.koumakan.jp/Living_Area#Tactical_Class) a.k.a Skill training. You start with 2 slots and can unlock the 3rd slot with 500 gems. Using proper skill books for the skill gives a +50% exp. **Tips on skill training and skill books:**
-    - When starting out, level skills to level 6-7 across the board barring exceptions (e.g Portland's Red skill) b4 deciding to level one to level 10. Skills that is most commonly recommended to level to 10 1st after that are barrage skills, damage buffs (e.g Enty's only skill), fleet stat buff (e.g Leander's Yellow skill).
-    - 
+    - When starting out, level skills to level 6-7 across the board according to priorities such as
+      1. **Surface healing skills on these following ships if you use them and should: Shouhou, Unicorn, Ryuuhou, Arizona:** while the answer to clearing map is always damage but these heals are very substantial in keeping your vanguard in mobbing fleet not die an untimely death before the boss spawn especially in the early game when you have a severe lack of usable defensive Aux. While you normally won't use more than 1 healer in both of your fleet combined, it is always helpful to have options.
+      2. Afterwards, it's **DAMAGE FIRST**, basically anything that boost a ship or the team's total damage output should be prioritised in the following order: *Note: All vanguard ships except for collab also have their own AOA that are part of their limit break perks and can't be leveled here*
+        * Battleship Barrage: Ah yes, flashy danmaku is the name of the game after all, these barrages from BBs and BCs alike are "for the most part" very strong and should be leveled accordingly.
+        * Personal damage boost: Mostly are red skills, the most abundant of the type. Some are very strong to be borderline damage potential of top tier barrages such as Enterprise only skill. Unique barrages such as starter's retrofit skill also come with their hefty buff and are very worth it. Some exceptions of course exist that you are better off leaving at level 1 (e.g Portland).
+        * Team wide buffs: Stat buffs, straight damage buffs or damage amplifications while varies from good to outright broken, they are dependent on multiple factors and therefore a bit more tricky to ultilize to their maximum potential. Therefore, personally, I'll recommend to prioritize them less.
+      3. Defensive skills: There are many good ones I can list off but defensive skills by itself are rarer and those that focuses too much on it in returns does less damage. **Turtling doesn't clear maps, damage does.** On some cases, you can outright ignore them till much later. 
+    - Proceed to level skills you deem important (BB/BC Barrages amongst others) to 10 before moving on to the next ship
+    - Skill books recommendation:
+      1. Having something leveling is better than not. 
+      2. When you start out, skill books are rare, you can spend blue skill books into red books as well
