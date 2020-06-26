@@ -232,14 +232,14 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
       3. When you start having a surplus of T1 books, it is recommended to combine them because opportunity cost, time cost and for convenience sake. Personally I haven't used a T1 book ever since HQ 75 because I'd rather use a T2 blue book instead of micro-manage using 2 T1 red books for the same amount of exp.
   * [**Cattery:**](#cat-lodge) Meowfficers room. Refers to the Cat Lodge section below 
 
-  * [**Canteen and Merchant:**] This is your passive oil and gold income respectively:
+  * [**Canteen and Merchant:**](https://azurlane.koumakan.jp/Living_Area#Canteen_and_Merchant) This is your passive oil and gold income respectively:
      - Unlocked at the start and can be upgraded **every 10 HQ levels** starting from Level 3.
      - The resource generation rate and storage cap limit are dependent on the building's level. 
      - Always upgrade this asap, it's really really good, free stuff is free
   
   * [**Medallion:**](https://azurlane.koumakan.jp/Medallion) Flex tapes and showcase trophies for your profile, nothing more to be said, it's cosmetics and has challenges if you want to complete them
   
-  * [**Munition:**](#Shops): refers back to the Shiranui's Shop above
+  * [**Munition:**](#Shops) refers back to the Shiranui's Shop above
   
 ### [**Dorm:**](https://azurlane.koumakan.jp/Living_Area#Dorm) Seriously though, I can't TL;DR more on this section, you have to read the wiki, it's just that complicated if you want to optimize exp/oil ratio and other things:
   * **Decorations do not have to be put down to increase your comfort.**
@@ -249,7 +249,14 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
     - As many 2-Comfort items as will fit. This should take you to 100 Comfort or so.
     - The remaining expansions.
     - Whatever you feel like; due to diminishing returns it will make little difference at this point.
-  * ![](https://i.imgur.com/GVCU20i.png)
+  * EXP per hour formula where the **Modifier changed based on the number of shipgirls in dorm:
+    - 1 girl is 1
+    - 2 girls is 0.9
+    - 3 girls is 0.8
+    - 4 girls is 0.7
+    - 5 girls is 0.64
+    - 6 girls is 0.56(6)
+    ![](https://i.imgur.com/GVCU20i.png)
 
 ### [**Cat Lodge:**](https://azurlane.koumakan.jp/Meowfficer): There's a lot of information here but the gains is really minimal for the amount of gold you need to sink in 
    - **Unlocked at HQ level 40** and does not require upgrading
