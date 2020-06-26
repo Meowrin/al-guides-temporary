@@ -249,7 +249,7 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
     - As many 2-Comfort items as will fit. This should take you to 100 Comfort or so.
     - The remaining expansions.
     - Whatever you feel like; due to diminishing returns it will make little difference at this point.
-  * EXP per hour formula where the **Modifier changed based on the number of shipgirls in dorm:
+  * EXP per hour formula where the **Modifier** changed based on the number of shipgirls in dorm:
     - 1 girl is 1
     - 2 girls is 0.9
     - 3 girls is 0.8
