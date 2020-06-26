@@ -258,7 +258,8 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
     - 6 girls is 0.56(6)
     ![](https://i.imgur.com/GVCU20i.png)
 
-### [**Cat Lodge:**](https://azurlane.koumakan.jp/Meowfficer): There's a lot of information here but the gains is really minimal for the amount of gold you need to sink in 
+### [**Cat Lodge:**](https://azurlane.koumakan.jp/Meowfficer)
+There's a lot of information here but the gains is really minimal for the amount of gold you need to sink in 
    - **Unlocked at HQ level 40** and does not require upgrading
    - My recommendation is do your daily/weekly box opening and buy the free box everyday. Wait till you get a good starting cat (preferably an SSR cat or Edelweiss) to decide to reroll its talent. 
    - You are mainly looking for these top 2 talents: **Mountain and/or Flame at the start so you can reroll and still have them**. 
