@@ -241,7 +241,7 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
   
   * [**Munition:**](#Shops): refers back to the Shiranui's Shop above
   
-#### [**Dorm:**](https://azurlane.koumakan.jp/Living_Area#Dorm) Seriously though, I can't TL;DR more on this section, you have to read the wiki, it's just that complicated if you want to optimize exp/oil ratio and other things:
+### [**Dorm:**](https://azurlane.koumakan.jp/Living_Area#Dorm) Seriously though, I can't TL;DR more on this section, you have to read the wiki, it's just that complicated if you want to optimize exp/oil ratio and other things:
   * **Decorations do not have to be put down to increase your comfort.**
   * Quote from the wiki of the recommended build order:
     - The first expansion due to its favorable ratio of Comfort per Furniture coin.
@@ -251,10 +251,10 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
     - Whatever you feel like; due to diminishing returns it will make little difference at this point.
   * ![](https://i.imgur.com/GVCU20i.png)
 
-#### [**Cat Lodge:**](https://azurlane.koumakan.jp/Meowfficer): There's a lot of information here but the gains is really minimal for the amount of gold you need to sink in 
-     - **Unlocked at HQ level 40** and does not require upgrading
-     - My recommendation is do your daily/weekly box opening and buy the free box everyday. Wait till you get a good starting cat (preferably an SSR cat or Edelweiss) to decide to reroll its talent. 
-     - You are mainly looking for these top 2 talents: **Mountain and/or Flame at the start so you can reroll and still have them**. 
-     - You can go a step further and use the Talent calculator made by Bluerendar#2640 which can be found [here](https://docs.google.com/spreadsheets/d/1NcqTZTgU5hF6VB7ziIHiIxQrSKTa4g77stPr4ApzRjw/edit?usp=sharing). 
-     - A short guide to cat position as well as their ship type (note: the cats that isn't included means they function on both slots and have different and specific requirements for their skills can be found [here](https://i.imgur.com/IkPVDlW.jpg)
-     - A short-hand Talent Tierlist (contentious but still good mostly Forest acc and eva stat is T0.5) can be found [here](https://i.imgur.com/OMn80m5.png)
+### [**Cat Lodge:**](https://azurlane.koumakan.jp/Meowfficer): There's a lot of information here but the gains is really minimal for the amount of gold you need to sink in 
+   - **Unlocked at HQ level 40** and does not require upgrading
+   - My recommendation is do your daily/weekly box opening and buy the free box everyday. Wait till you get a good starting cat (preferably an SSR cat or Edelweiss) to decide to reroll its talent. 
+   - You are mainly looking for these top 2 talents: **Mountain and/or Flame at the start so you can reroll and still have them**. 
+   - You can go a step further and use the Talent calculator made by Bluerendar#2640 which can be found [here](https://docs.google.com/spreadsheets/d/1NcqTZTgU5hF6VB7ziIHiIxQrSKTa4g77stPr4ApzRjw/edit?usp=sharing). 
+   - A short guide to cat position as well as their ship type (note: the cats that isn't included means they function on both slots and have different and specific requirements for their skills can be found [here](https://i.imgur.com/IkPVDlW.jpg)
+   - A short-hand Talent Tierlist (contentious but still good mostly Forest acc and eva stat is T0.5) can be found [here](https://i.imgur.com/OMn80m5.png)
