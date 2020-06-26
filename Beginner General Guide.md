@@ -194,7 +194,7 @@ Equipment of all sort goes here split into 3 tabs on the bottom right:
   - [**Gears:**](https://azurlane.koumakan.jp/Equipment#Ship_Equipments) has the following feature:
     * Gears and Gear Skins: switch on the left hand side.
     * Disassembly (a.k.a scrapping) mode: enter by pressing the disassemble button on the bottom right to mass scrap up to 40 pieces of equipment at a time. 
-    * Click on this button ![](https://i.imgur.com/ZlkaoJz.png) to have a rough understanding of weapon diameters.
+    * Click on this button ![](https://i.imgur.com/ZlkaoJz.png) on the bottom right to have a rough understanding of weapon diameters.
     * Toggling the equipped button to see all currently equipped gears as well. 
     * Sort gears on the top right by slots, type, rarity and enhance level
     * Base depot capacity is 300 slots, you can expand it by 20 slots for 100 gems through the [Akashi's Shop](#Shops)
@@ -209,8 +209,8 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
   
   ![](https://i.imgur.com/ifIMStn.jpg)
   * [**Lecture Hall:**](https://azurlane.koumakan.jp/Living_Area#Lecture_Hall) The wiki will provide all the information needed so I'll just go over some of the key points:
-    1. Unlocked at HQ/commander level 50 and can be upgraded every 5 levels after.
-    2. Only MLB level 100+ ships can generate proficiency ONLY from sorties.
+    1. **Unlocked at HQ/commander level 50** and can be upgraded every 5 levels after.
+    2. Only MLB level 100+ ships can generate proficiency from EXP FROM SORTIES (basically anything that cost oil to fight).
     3. Lecture runs for 12 hours. 
     4. The consumed XP is calculated at the time the lecture is claimed. This means that even if you start the lecture with little XP in the bar but earn XP while the lecture is ongoing, that XP will be consumed and given to the ships in the lecture.
     5. Ships in the Dorm cannot participate in Lectures. Lectures do not prevent participation in any other activities (like sorties or commissions).
@@ -230,3 +230,31 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
       1. When you start out (a.k.a below HQ 70), skill books are harder to get. Therefore having something leveling is better than not. 
       2. You can use blue skill books to level red skills, it is perfectly fine, you have generally more red skills to level than blue skills most of the time anyways.
       3. When you start having a surplus of T1 books, it is recommended to combine them because opportunity cost, time cost and for convenience sake. Personally I haven't used a T1 book ever since HQ 75 because I'd rather use a T2 blue book instead of micro-manage using 2 T1 red books for the same amount of exp.
+  * [**Cattery:**](#cat-lodge) Meowfficers room. Refers to the Cat Lodge section below 
+
+  * [**Canteen and Merchant:**] This is your passive oil and gold income respectively:
+     - Unlocked at the start and can be upgraded **every 10 HQ levels** starting from Level 3.
+     - The resource generation rate and storage cap limit are dependent on the building's level. 
+     - Always upgrade this asap, it's really really good, free stuff is free
+  
+  * [**Medallion:**](https://azurlane.koumakan.jp/Medallion) Flex tapes and showcase trophies for your profile, nothing more to be said, it's cosmetics and has challenges if you want to complete them
+  
+  * [**Munition:**](#Shops): refers back to the Shiranui's Shop above
+  
+#### [**Dorm:**](https://azurlane.koumakan.jp/Living_Area#Dorm) Seriously though, I can't TL;DR more on this section, you have to read the wiki, it's just that complicated if you want to optimize exp/oil ratio and other things:
+  * **Decorations do not have to be put down to increase your comfort.**
+  * Quote from the wiki of the recommended build order:
+    - The first expansion due to its favorable ratio of Comfort per Furniture coin.
+    - High-Comfort limited event items, as this will increase the maximum achievable Comfort beyond what is possible by permanently available items alone. Also grab anything that is aesthetically pleasing to you.
+    - As many 2-Comfort items as will fit. This should take you to 100 Comfort or so.
+    - The remaining expansions.
+    - Whatever you feel like; due to diminishing returns it will make little difference at this point.
+  * ![](https://i.imgur.com/GVCU20i.png)
+
+#### [**Cat Lodge:**](https://azurlane.koumakan.jp/Meowfficer): There's a lot of information here but the gains is really minimal for the amount of gold you need to sink in 
+     - **Unlocked at HQ level 40** and does not require upgrading
+     - My recommendation is do your daily/weekly box opening and buy the free box everyday. Wait till you get a good starting cat (preferably an SSR cat or Edelweiss) to decide to reroll its talent. 
+     - You are mainly looking for these top 2 talents: **Mountain and/or Flame at the start so you can reroll and still have them**. 
+     - You can go a step further and use the Talent calculator made by Bluerendar#2640 which can be found [here](https://docs.google.com/spreadsheets/d/1NcqTZTgU5hF6VB7ziIHiIxQrSKTa4g77stPr4ApzRjw/edit?usp=sharing). 
+     - A short guide to cat position as well as their ship type (note: the cats that isn't included means they function on both slots and have different and specific requirements for their skills can be found [here](https://i.imgur.com/IkPVDlW.jpg)
+     - A short-hand Talent Tierlist (contentious but still good mostly Forest acc and eva stat is T0.5) can be found [here](https://i.imgur.com/OMn80m5.png)
