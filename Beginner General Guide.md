@@ -292,4 +292,5 @@ A.k.a A MASSSIVE GOLD SINK AGANE.
 TL;DR: MORE GRIND POGGERS
   - A TL;DR half in joke but actually serious, you spend oil using specific ships that in the required faction and hull class to get exp, spend a bunch more resources before you even get a new ship that will perform worse than whatever you have because you can't limit break them like normal ships. 
   - On the upside tho, they are for the most part good WHEN MAXED OUT. Check [Wis Ship tier guide](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/AL%20Tier%20Guide.md) to know which to go for 1st on both season.
+  - You can change your development to a new ship after 24 hours which **pauses the quests of the previous one**. However, you cannot develop two ships at the same time.
   - Sorties EXP means any fight that cost oil (PvP, comms, dorm, lecture don't count, daily raid does)
