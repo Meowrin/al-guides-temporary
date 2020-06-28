@@ -9,8 +9,8 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 - SSR rates are 7% anyway.
 
 ## Table of content:
-- [Useful Shorthands](#Useful-Shorthands)
-- [Main UI Explanation](#Main-UI-Explanation)
+- [Useful Shorthands](#useful-shorthands)
+- [Main UI Explanation](#main-ui-explanation)
 - [Miscellaneous Tips]()
 
 ## Useful Shorthands
@@ -77,7 +77,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   * Limit Break: LB (all ships have 3 LB level: LB1, LB2 and LB3 or Max LB = MLB)
   * All vanguard ships EXCEPT Collab ships have a skill, that is unlocked and upgraded by Limit Breaking, called All-out Assault: AOA for short.
   * Blueprints: as there are many type of blueprints in the game, from PR ship blueprints to equipment blueprints, they are all collectively called BPs
-  * Research ships and blueprints are collectively called PR (prototype) so PR BPs generally refers to PR ship BP (the currency to enhance PR ships)
+  * Research ships and blueprints are collectively called PR (prototype) so PR BPs generally refers to PR ship BP (the currency to enhance PR ships) or PR gears to refer to gears only obtainable from research
   * Cognitive Chips (Mental Units): are often shorthanded to Chips or Cog Chips. ~~what I'd like to call Mindbreaker Juice~~ 
   * Upgrade Parts are generally called Plates instead, e.g Torp Plates instead of Torpedo Parts, AA Plates instead of Anti-Air Gun Part,  Aux Plates instead of General Parts. Why is General Parts called Aux Plates? Because Auxiliary Equipment, the 2 slots that all ships have (3 for ARs), are upgraded with General Parts so it becomes Aux Plates.
 </details>
@@ -191,7 +191,7 @@ Equipment of all sort goes here split into 3 tabs on the bottom right:
     * T1 can be combined to T2 and T2 to T3 at a ratio of 6:1. You cannot craft T4 boxes however.
     * T1 tech boxes have the most gold from dismantling gears so at late game when you don't need purple gears from boxes anymore, just open them as is for emergency gold.
     * For early game, it is recommended that you combine them to open for potential purple gears. The drop table for each faction tech boxes can be found [here](https://azurlane.koumakan.jp/Equipment#Equipment_Box_Contents)
-  - [**Gears:**](https://azurlane.koumakan.jp/Equipment#Ship_Equipments) has the following feature:
+  - [**Gears:**](https://azurlane.koumakan.jp/Equipment#Ship_Equipments) has the following feature and recommendation:
     * Gears and Gear Skins: switch on the left hand side.
     * Disassembly (a.k.a scrapping) mode: enter by pressing the disassemble button on the bottom right to mass scrap up to 40 pieces of equipment at a time. 
     * Click on this button ![](https://i.imgur.com/ZlkaoJz.png) on the bottom right to have a rough understanding of weapon diameters.
@@ -199,13 +199,16 @@ Equipment of all sort goes here split into 3 tabs on the bottom right:
     * Sort gears on the top right by slots, type, rarity and enhance level
     * Base depot capacity is 300 slots, you can expand it by 20 slots for 100 gems through the [Akashi's Shop](#Shops)
     * Enhance cost can be found on the wiki link
+    * Disassemble: there's a safe to scrap list that I'll make eventually but a tip here is you can set a secondary password to act as a soft lock to prevent yourself from scrapping already enhanced gears.
+    * **(1):** reasoning why names should be ignored is Yostars is incredibly lazy in fixing their translation mistake. [Here's an example](https://i.imgur.com/NOenqkF.png)
+    * **(2):** Enhance cost gold and plates so read up on what you should enhance and not. A +10 main gun has near 300% base damage of the +0 so it's very effective in increasing your ship damage.
   - [**Designs:**](https://azurlane.koumakan.jp/Equipment#Design) This is where you craft equipment BPs you get from running maps, researches into full pieces of equipment that you can use. Some Gold gear from research requires 25 BPs and 500 gold instead of the usual 15 BPs, 200 gold
   
-  ![](https://i.imgur.com/pgiqmFh.png)
+  ![](https://i.imgur.com/0HKBN2c.png)
    
 ### HQ:
 HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
-#### **Academy:**
+### **Academy:**
   
   ![](https://i.imgur.com/ifIMStn.jpg)
   * [**Lecture Hall:**](https://azurlane.koumakan.jp/Living_Area#Lecture_Hall) The wiki will provide all the information needed so I'll just go over some of the key points:
@@ -243,7 +246,7 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
   
 ### [**Dorm:**](https://azurlane.koumakan.jp/Living_Area#Dorm) Seriously though, I can't TL;DR more on this section, you have to read the wiki, it's just that complicated if you want to optimize exp/oil ratio and other things:
   * **Decorations do not have to be put down to increase your comfort.**
-  * Quote from the wiki of the recommended build order:
+  * Quote from the wiki of the recommended build order (reasoning and mathwork on the wiki):
     - The first expansion due to its favorable ratio of Comfort per Furniture coin.
     - High-Comfort limited event items, as this will increase the maximum achievable Comfort beyond what is possible by permanently available items alone. Also grab anything that is aesthetically pleasing to you.
     - As many 2-Comfort items as will fit. This should take you to 100 Comfort or so.
@@ -259,10 +262,34 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
     ![](https://i.imgur.com/GVCU20i.png)
 
 ### [**Cat Lodge:**](https://azurlane.koumakan.jp/Meowfficer)
-There's a lot of information here but the gains is really minimal for the amount of gold you need to sink in 
+There's a lot of information here but the gains is really minimal for the amount of gold you need to sink in
    - **Unlocked at HQ level 40** and does not require upgrading
    - My recommendation is do your daily/weekly box opening and buy the free box everyday. Wait till you get a good starting cat (preferably an SSR cat or Edelweiss) to decide to reroll its talent. 
    - You are mainly looking for these top 2 talents: **Mountain and/or Flame at the start so you can reroll and still have them**. 
    - You can go a step further and use the Talent calculator made by Bluerendar#2640 which can be found [here](https://docs.google.com/spreadsheets/d/1NcqTZTgU5hF6VB7ziIHiIxQrSKTa4g77stPr4ApzRjw/edit?usp=sharing). 
    - A short guide to cat position as well as their ship type (note: the cats that isn't included means they function on both slots and have different and specific requirements for their skills can be found [here](https://i.imgur.com/IkPVDlW.jpg)
    - A short-hand Talent Tierlist (contentious but still good mostly Forest acc and eva stat is T0.5) can be found [here](https://i.imgur.com/OMn80m5.png)
+
+### [Lab]:
+This is the research and development department. Split into 3 parts:
+
+### [Fleet Technology:](https://azurlane.koumakan.jp/Fleet_Technology)
+TL;DR: 
+  * Fleet Tech gives bonus stats for **Maximum Limit Broken ships** based on their hull type. 
+  * These stat bonuses are gained from getting unique ships to level 120 and Faction Tech. 
+  * The 4 main faction tech gives stats for **ALL ships regardless of their faction** and upgradable when you get the tech point for that faction (gained from collecting new unique ships, MLB them and getting them to level 120)
+  * **ALSO REQUIRED FOR UNLOCKING PR2 SHIPS IN SHIPYARD**
+  
+### [Research Academy](https://azurlane.koumakan.jp/Research_Academy)
+A.k.a A MASSSIVE GOLD SINK AGANE.
+  - Simply put, you spend time and sometimes resources to get PR gears BP and PR ship BPs from the 5 projects. It takes a while before getting the gears or to max out (dev30, then fate 5) PR ships so don't worry about rushing it. ~~And about 9 months to 15 months for a DR ship or gear cause RNG is fun~~
+  - The rates are not equal so here's 2 crowd-sourced data sheet for your perusal: [PR1 speadsheet](https://docs.google.com/spreadsheets/d/1r0himICsu0p_DcEPQYoMqv6V7bbtyZzhyX38SHpQZ3g/edit) and [PR2 spreadsheet](https://docs.google.com/spreadsheets/d/12jp_v9PbojRG2PQ1SMr4y-uQASyKz_ewj-Fi4NVpjls/edit). You can also find this in the readme file of the folder. Best bookmark it, it's very helpful.
+  - You can change the focus of the research to guaranteed 2 out of 5 project are from the season you need.
+  - You can refresh the list of 5 projects ONCE a day. Reset at exactly the daily reset.
+  - Do **NOT** worry about rushing researches or getting the most value at the start because gold is always in demand and T3 plates are needed for enhancing your gears so ration them properly.
+  
+### [Shipyard](https://azurlane.koumakan.jp/Research)
+TL;DR: MORE GRIND POGGERS
+  - A TL;DR half in joke but actually serious, you spend oil using specific ships that in the faction and hull class to get exp, spend a bunch more resources before you even get a new ship that will perform worse than whatever you have because you can't limit break them like normal ships. 
+  - On the upside tho, they are for the most part good WHEN MAXED OUT. Check Wis Ship tier list to know which to go for 1st on both season.
+  - Sorties EXP means any fight that cost oil (PvP, comms, dorm, lecture don't count, daily raid does)
