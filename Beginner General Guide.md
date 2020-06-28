@@ -290,6 +290,6 @@ A.k.a A MASSSIVE GOLD SINK AGANE.
   
 ### [Shipyard](https://azurlane.koumakan.jp/Research)
 TL;DR: MORE GRIND POGGERS
-  - A TL;DR half in joke but actually serious, you spend oil using specific ships that in the faction and hull class to get exp, spend a bunch more resources before you even get a new ship that will perform worse than whatever you have because you can't limit break them like normal ships. 
+  - A TL;DR half in joke but actually serious, you spend oil using specific ships that in the required faction and hull class to get exp, spend a bunch more resources before you even get a new ship that will perform worse than whatever you have because you can't limit break them like normal ships. 
   - On the upside tho, they are for the most part good WHEN MAXED OUT. Check Wis Ship tier list to know which to go for 1st on both season.
   - Sorties EXP means any fight that cost oil (PvP, comms, dorm, lecture don't count, daily raid does)
