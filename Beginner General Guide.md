@@ -179,7 +179,7 @@ As many as there are, collectively are all here. They are mainly divided to 2 ty
     - The table at the top shows the current stats available for boosting (Firepower, Torpedo, Aircraft and Reload, depending on the type of weapons the ship is able to use). These bars will fill with EXP from merging ships that give boosts to those stats. This can be done to increase the stats up to their cap (which increases with every level and stops after level 100).
     - Basically, do it often for the ships you are using, it is basically free stats from white ships that you gain from farming maps.
   - Unique for PR/DR ships: Prototype ships do not have their Limit Break and Enhance page but instead uses their PR/DR BPs to enhance their stats and gain a boost of stats and efficiency at Dev 5/15/25, similar LB perks at Dev 10/20/30. They also have their unique system called Fate Simulation that uses their BPs to further enhance their luck stat and finally enhances their skill at level 5.
-  -  [Retrofits:](https://azurlane.koumakan.jp/Dockyard#Retrofit) TL;DR: You spend gold and retrofit BPs obtained from **Hard Mode STORY maps** to retrofit the ships, giving them a slew of stats, slot efficiencies, sometimes the following: a new skill and/or enhance their existing one, changes their equipment slots to other LB perks. Retrofit BPs drop are always based on the map you run:
+  -  [Retrofits:](https://azurlane.koumakan.jp/Dockyard#Retrofit) TL;DR: You spend gold and retrofit BPs obtained from **Hard Mode STORY maps** to retrofit the ships, giving them a slew of stats, slot efficiencies, sometimes the following: a new skill and/or enhance their existing one, changes their equipment slots to other LB perks. Retrofit BPs drop are always based on the map you run and can be crafted from T1 to T2 at a ratio of 6:1.
      - X-1: Destroyer
      - X-2: Cruiser
      - X-3: Battleship
@@ -261,19 +261,21 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
     - 6 girls is 0.56(6)
     ![](https://i.imgur.com/GVCU20i.png)
 
-### [**Cat Lodge:**](https://azurlane.koumakan.jp/Meowfficer)
+### [**Cat Lodge**](https://azurlane.koumakan.jp/Meowfficer)
 There's a lot of information here but the gains is really minimal for the amount of gold you need to sink in
    - **Unlocked at HQ level 40** and does not require upgrading
    - My recommendation is do your daily/weekly box opening and buy the free box everyday. Wait till you get a good starting cat (preferably an SSR cat or Edelweiss) to decide to reroll its talent. 
    - You are mainly looking for these top 2 talents: **Mountain and/or Flame at the start so you can reroll and still have them**. 
+   - Save dupes of SSR and Edelweiss just in case you find a great starting cat.
+   - Since good cats are rare to come by, most cats you have early on are just fodders, use them to bank up exp for a later ideal cat that you'll reroll.
    - You can go a step further and use the Talent calculator made by Bluerendar#2640 which can be found [here](https://docs.google.com/spreadsheets/d/1NcqTZTgU5hF6VB7ziIHiIxQrSKTa4g77stPr4ApzRjw/edit?usp=sharing). 
-   - A short guide to cat position as well as their ship type (note: the cats that isn't included means they function on both slots and have different and specific requirements for their skills can be found [here](https://i.imgur.com/IkPVDlW.jpg)
-   - A short-hand Talent Tierlist (contentious but still good mostly Forest acc and eva stat is T0.5) can be found [here](https://i.imgur.com/OMn80m5.png)
+   - A short guide to cat position as well as their ship type (note: the cats that isn't included means they function on both slots and have different and specific requirements for their skills) can be found [here](https://i.imgur.com/IkPVDlW.jpg)
+   - A short-hand Talent Tierlist (contentious but still good mostly Forest and Miracle by itself is T0.5) can be found [here](https://i.imgur.com/OMn80m5.png)
 
-### Lab:
+### Lab
 This is the research and development department. **Unlocked at HQ leve 30** and is split into 3 parts:
 
-### [Fleet Technology:](https://azurlane.koumakan.jp/Fleet_Technology)
+### [Fleet Technology](https://azurlane.koumakan.jp/Fleet_Technology)
 TL;DR: 
   * Fleet Tech gives bonus stats for **Maximum Limit Broken ships** based on their hull type. 
   * These stat bonuses are gained from getting unique ships to level 120 and Faction Tech. 
@@ -294,3 +296,16 @@ TL;DR: MORE GRIND POGGERS
   - On the upside tho, they are for the most part good WHEN MAXED OUT. Check [Wis Ship tier guide](https://github.com/YourWaifuIsShip/Azur-Lane-Guides/blob/master/AL%20Tier%20Guide.md) to know which to go for 1st on both season.
   - You can change your development to a new ship after 24 hours which **pauses the quests of the previous one**. However, you cannot develop two ships at the same time.
   - Sorties EXP means any fight that cost oil (PvP, comms, dorm, lecture don't count, daily raid does)
+
+### [Missions](https://azurlane.koumakan.jp/Task)
+TL;DR: Skinner Box 101. You do stuffs here and get resources and rewards. Reset at daily reset and weekly reset.
+  - Even if you are lazy at least log in 5 times a week to finish all of the weekly since they gives an abundant of resources.
+  - Event usually comes with 3 extra daily missions that rewards event currency:
+    * Build 3 ships
+    * Sortie 15 times
+    * Do Hard Mode 1 time
+    
+### [Building](https://azurlane.koumakan.jp/Building)
+TL;DR: Gacha zone and retirement department. You spend cubes and gold to gacha for ships here, retire blue rarity and higher ships for medals and exchange the medals for bulins, ships, PR BPs, Plates, Books, Food, etc.
+
+#### [Wishing Well]
