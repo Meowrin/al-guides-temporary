@@ -193,16 +193,16 @@ Equipment of all sort goes here split into 3 tabs on the bottom right:
     * For early game, it is recommended that you combine them to open for potential purple gears. The drop table for each faction tech boxes can be found [here](https://azurlane.koumakan.jp/Equipment#Equipment_Box_Contents)
   - [**Gears:**](https://azurlane.koumakan.jp/Equipment#Ship_Equipments) has the following feature and recommendation:
     * Gears and Gear Skins: switch on the left hand side.
-    * Disassembly (a.k.a scrapping) mode: enter by pressing the disassemble button on the bottom right to mass scrap up to 40 pieces of equipment at a time. 
+    * Disassembly (a.k.a scrapping) mode: enter by pressing the disassemble button on the bottom right to mass scrap up to 40 pieces of equipment at a time. A tip here is you can set a secondary password to act as a soft lock to prevent yourself from scrapping already enhanced gears.
     * Click on this button ![](https://i.imgur.com/ZlkaoJz.png) on the bottom right to have a rough understanding of weapon diameters.
     * Toggling the equipped button to see all currently equipped gears as well. 
     * Sort gears on the top right by slots, type, rarity and enhance level
     * Base depot capacity is 300 slots, you can expand it by 20 slots for 100 gems through the [Akashi's Shop](#Shops)
     * Enhance cost can be found on the wiki link
-    * Disassemble: there's a safe to scrap list that I'll make eventually but a tip here is you can set a secondary password to act as a soft lock to prevent yourself from scrapping already enhanced gears.
-    * **(1):** reasoning why names should be ignored is Yostars is incredibly lazy in fixing their translation mistake. [Here's an example](https://i.imgur.com/NOenqkF.png)
+    * *Insert my non-existent safe-to-scrap guide here when I make it. ETA: SoonTM*
+    * **(1):** reasoning why names should be ignored is Yostars is incredibly lazy in fixing their translation mistake. [Here's an example](https://i.imgur.com/NOenqkF.png) Oh and fyi, it's a PR CA gun, just wrong name because why fix equipment name when you can fix VDiR cutscenes translation instead.
     * **(2):** Enhance cost gold and plates so read up on what you should enhance and not. A +10 main gun has near 300% base damage of the +0 so it's very effective in increasing your ship damage.
-  - [**Designs:**](https://azurlane.koumakan.jp/Equipment#Design) This is where you craft equipment BPs you get from running maps, researches into full pieces of equipment that you can use. Some Gold gear from research requires 25 BPs and 500 gold instead of the usual 15 BPs, 200 gold
+  - [**Designs:**](https://azurlane.koumakan.jp/Equipment#Design) This is where you craft equipment BPs you get from running maps, researches into full pieces of equipment that you can use. Some Gold gear from research requires 25 BPs and 500 gold instead of the usual 15 BPs, 200 gold.
   
   ![](https://i.imgur.com/0HKBN2c.png)
    
