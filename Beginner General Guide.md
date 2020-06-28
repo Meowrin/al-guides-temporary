@@ -270,8 +270,8 @@ There's a lot of information here but the gains is really minimal for the amount
    - A short guide to cat position as well as their ship type (note: the cats that isn't included means they function on both slots and have different and specific requirements for their skills can be found [here](https://i.imgur.com/IkPVDlW.jpg)
    - A short-hand Talent Tierlist (contentious but still good mostly Forest acc and eva stat is T0.5) can be found [here](https://i.imgur.com/OMn80m5.png)
 
-### [Lab]:
-This is the research and development department. Split into 3 parts:
+### Lab:
+This is the research and development department. **Unlocked at HQ leve 30** and is split into 3 parts:
 
 ### [Fleet Technology:](https://azurlane.koumakan.jp/Fleet_Technology)
 TL;DR: 
