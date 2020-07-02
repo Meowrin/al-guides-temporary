@@ -148,7 +148,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 
 Each of this is a section of its own due to their content. Some are just so long I kinda give up giving a run down since the details are on the wiki and the game does a sufficient job of explaining it.
 
-### Shops
+### Shops --- Element 19
 
 As many as there are, collectively are all here. They are mainly divided to 2 type: the ~~scam cat/whale~~ gem shop a.k.a [Akashi's shop](https://azurlane.koumakan.jp/Akashi%27s_Shop) and all the other currency - the Munition shop a.k.a [Shiranui's shop](https://azurlane.koumakan.jp/Shops).
   * [Akashi's shop](https://azurlane.koumakan.jp/Akashi%27s_Shop) includes:
@@ -164,7 +164,7 @@ As many as there are, collectively are all here. They are mainly divided to 2 ty
       4. General shop: **some items cost GEMS so read the price tag carefully before you buy,** the main Gold shop. Nothing special to say besides a *personal* general recommendation: Purple Food > Blue Food > Cubes > Red skill books > other skill books = Purple T3 Aux Plates > everything else. Note: I do NOT encourage buying T4 Gold Tech boxes EVER because the value proposition is so low with not only the rate of a gold gear being low but can also land on a useless gold equipment instead. Feel free to disagree, it's your gold after all, the game has a lot of gold sinks (LB, awakening, research, retrofits, enhancing equipment, Meowfficers, construction and this shop), you decide what to dump your gold into, not me.
       5. Event shop: Kinda straight forward, buy what you need with the event currency that you get from daily mission and grinding event maps, here's a *personal* general event shop purchasing guide (do note that you should ask a help chat for your specific situation, this is just for a blanket view because exclusive event gears have always been good or at least niche on one unit): Gold/Oil (during event) > Exclusive Gears > Ships if you don't have > Aux and any needed Plates > (Optional Boxes if lacking specific gears) > DR BPs >= PR BPs > Chips/SSR Cat boxes > (Gear Skins /s) > the rest
 
-### [Dockyard](https://azurlane.koumakan.jp/Dockyard)
+### [Dockyard](https://azurlane.koumakan.jp/Dockyard) --- Element 20
   
   ![](https://i.imgur.com/BGJKMMF.png)
   - Info: includes your ships stats, skills and overview of equipment:
@@ -191,7 +191,7 @@ As many as there are, collectively are all here. They are mainly divided to 2 ty
      - X-3: Battleship
      - X-4: Carrier
 
-### [Depot](https://azurlane.koumakan.jp/Equipment)
+### [Depot](https://azurlane.koumakan.jp/Equipment) --- Element 21
 Equipment of all sort goes here split into 3 tabs on the bottom right:
   - **Items:** your storage for food, medals, cubes, quick finishers, tech boxes, plates, skill books retrofit and PR BPs and other commemorative and miscellaneous items. There's an assortment of things in here but there isn't a cap on how much you can store so don't fret on it. **Tip on using Tech boxes:**
     * T1 can be combined to T2 and T2 to T3 at a ratio of 6:1. You cannot craft T4 boxes however.
@@ -212,7 +212,7 @@ Equipment of all sort goes here split into 3 tabs on the bottom right:
   
   ![](https://i.imgur.com/0HKBN2c.png)
    
-### HQ:
+### HQ: --- Element 22
 HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
 ### **Academy:**
   
@@ -280,7 +280,7 @@ There's a lot of information here but the gains is really minimal for the amount
    - A short guide to cat position as well as their ship type (note: the cats that isn't included means they function on both slots and have different and specific requirements for their skills) can be found [here](https://i.imgur.com/IkPVDlW.jpg)
    - A short-hand Talent Tierlist (contentious but still good mostly Forest and Miracle by itself is T0.5) can be found [here](https://i.imgur.com/OMn80m5.png)
 
-### Lab
+### Lab --- Element 23
 This is the research and development department. **Unlocked at HQ leve 30** and is split into 3 parts:
 
 ### [Fleet Technology](https://azurlane.koumakan.jp/Fleet_Technology)
@@ -305,7 +305,7 @@ TL;DR: MORE GRIND POGGERS
   - You can change your development to a new ship after 24 hours which **pauses the quests of the previous one**. However, you cannot develop two ships at the same time.
   - Sorties EXP means any fight that cost oil (PvP, comms, dorm, lecture don't count, daily raid does)
 
-### [Missions](https://azurlane.koumakan.jp/Task)
+### [Missions](https://azurlane.koumakan.jp/Task) --- Element 24
 TL;DR: Skinner Box 101. You do stuffs here and get resources and rewards. Reset at daily reset and weekly reset.
   - Even if you are lazy at least log in 5 times a week to finish all of the weekly since they gives an abundant of resources.
   - Event usually comes with 3 extra daily missions that rewards event currency:
@@ -313,7 +313,7 @@ TL;DR: Skinner Box 101. You do stuffs here and get resources and rewards. Reset 
     * Sortie 15 times
     * Do Hard Mode 1 time
     
-### [Building](https://azurlane.koumakan.jp/Building)
+### [Building](https://azurlane.koumakan.jp/Building) --- Element 25
 TL;DR: Gacha zone and retirement department. You spend cubes and gold to gacha for ships here, retire blue rarity and higher ships for medals and exchange the medals for bulins, ships, PR BPs, Plates, Books, Food, etc.
 
 ### [Permanent Build](https://azurlane.koumakan.jp/Building#Permanent_Construction):
@@ -344,7 +344,7 @@ Normally I don't say about event but this one is special:
   * This selection is **NOT** kept between wishing well and you will choose new wishes every wishing well event (sounds obvious but I have had people asked this before) because the wishing well is constantly expanded since new ships are also being introduced as well. 
   * Since this event is rare (once or maybe twice a year), I can only say you should pick waifu ships or ships you don't have for rate up ~~(not that it matters, rate up is a lie in all gacha and this game is no exception)~~
 
-### [Guild](https://azurlane.koumakan.jp/Fleet) --- Element 29
+### [Guild](https://azurlane.koumakan.jp/Fleet) --- Element 26
 At the point of writing, Guild update has NOT been live so everything you are about to read are what we were teased by the devs themselves, I will disregard the basics such as creating a guild cost 300 gems, changing the guild name cost 100 gems and just state that "You should join a guild now to prepare for the future", now onto the teased aspects (subject to change obviously):
   * Guild Technology:
     * Expand Gold storage: increase Gold soft cap for all guild members (up to 12k gold soft cap increase)
