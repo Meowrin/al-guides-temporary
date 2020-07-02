@@ -80,6 +80,11 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   * Research ships and blueprints are collectively called PR (prototype) so PR BPs generally refers to PR ship BP (the currency to enhance PR ships) or PR gears to refer to gears only obtainable from research
   * Cognitive Chips (Mental Units): are often shorthanded to Chips or Cog Chips. ~~what I'd like to call Mindbreaker Juice~~ 
   * Upgrade Parts are generally called Plates instead, e.g Torp Plates instead of Torpedo Parts, AA Plates instead of Anti-Air Gun Part,  Aux Plates instead of General Parts. Why is General Parts called Aux Plates? Because Auxiliary Equipment, the 2 slots that all ships have (3 for ARs), are upgraded with General Parts so it becomes Aux Plates.
+  * BB/BC/gunbotes secondary is called Auxiliary Gun so Aux gun for short
+  * Bombing Ships, the ships that is fast and make a beeline for your backline, are colloquially referred to as jihads.
+  * This is how I refer to bulins and not reflective of how others do it: (they both say purin so it's hard to separate them based on the verbal tick)
+    * Prototype Bulin MKII are gold bulins or just bulins
+    * Universal Bulin are purins instead because B change to P means purple 
 </details>
 
 ## Main UI Explanation:
@@ -104,8 +109,9 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 - **Element 6:** is your current gems stock, the premium currency so to speak, you can gain more by buying in the gems shop, some packs, 3 starring story map missions and some lucky urgent commissions (a minimal amount if any). Therefore as a F2P player, gems is a luxury and should always go into permanent upgrades instead of consumables. Recommended gem expenditure would be the following first before: 
   * **Dormitory slots: The 3rd dorm slot cost 300 gems, 4th cost 500 gems, 5th cost 800 gems and 6th cost 1200 gems.** The 2nd floor, which can be unlocked after you have fully expanded using furniture coins, cost **500 gems** and only provide morale regeneration and no exp gains. The 6th slot cost a lot and could be optionally skipped.
   * **Dock space expansion:** cost 200 gems per 10 slots until the 2000 dock space, after which it will cost 300 gems per 10 slots up to the cap of 3000 dock space.
-  * Academy 3rd slot unlock: cost 500 gems and not that needed since you *eventually* don't need to raise so many skills as the main bottleneck is skill books).
-  * There are always consumables to spend gems on such as oil refills, skins, pledge rings, etc
+  * Academy 3rd slot unlock: cost 500 gems and not that needed since you *eventually* don't need to raise so many skills as the main bottleneck is skill books.
+  * Skins and Rings are luxury items afterwards.
+  * Consumables come last such as oil refills, cubes, gold, ~~quick finishers~~, premium food, etc
 
 ### Right side bar (element 7-12)
 - **Element 7:** This is the memento section, including the following ordered from top to bottom: ![](https://i.imgur.com/xZ1nmjz.png)
@@ -177,7 +183,7 @@ As many as there are, collectively are all here. They are mainly divided to 2 ty
   - Enhance: Quote from the wiki: 
     - This screen allows other ships to be permanently consumed in order to boost the stats of the currently selected ship, up to 12 at a time. 
     - The table at the top shows the current stats available for boosting (Firepower, Torpedo, Aircraft and Reload, depending on the type of weapons the ship is able to use). These bars will fill with EXP from merging ships that give boosts to those stats. This can be done to increase the stats up to their cap (which increases with every level and stops after level 100).
-    - Basically, do it often for the ships you are using, it is basically free stats from white ships that you gain from farming maps.
+    - Basically, do it often using grey ships as fodders for the ships you are using, it is basically free stats from grey ships that you gain from farming maps.
   - Unique for PR/DR ships: Prototype ships do not have their Limit Break and Enhance page but instead uses their PR/DR BPs to enhance their stats and gain a boost of stats and efficiency at Dev 5/15/25, similar LB perks at Dev 10/20/30. They also have their unique system called Fate Simulation that uses their BPs to further enhance their luck stat and finally enhances their skill at level 5.
   -  [Retrofits:](https://azurlane.koumakan.jp/Dockyard#Retrofit) TL;DR: You spend gold and retrofit BPs obtained from **Hard Mode STORY maps** to retrofit the ships, giving them a slew of stats, slot efficiencies, sometimes the following: a new skill and/or enhance their existing one, changes their equipment slots to other LB perks. Retrofit BPs drop are always based on the map you run and can be crafted from T1 to T2 at a ratio of 6:1.
      - X-1: Destroyer
@@ -244,8 +250,10 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
   
   * [**Munition:**](#Shops) refers back to the Shiranui's Shop above
   
-### [**Dorm:**](https://azurlane.koumakan.jp/Living_Area#Dorm) Seriously though, I can't TL;DR more on this section, you have to read the wiki, it's just that complicated if you want to optimize exp/oil ratio and other things:
+### [**Dorm:**](https://azurlane.koumakan.jp/Living_Area#Dorm) 
+Seriously though, I can't TL;DR more on this section, you have to read the wiki, it's just that complicated if you want to optimize exp/oil ratio and other things:
   * **Decorations do not have to be put down to increase your comfort.**
+  * Dorm slots is recommended to spend your gems on even as a F2P as permanent upgrades, the 6th slot is debatable but still very valuable should you able to afford it.
   * Quote from the wiki of the recommended build order (reasoning and mathwork on the wiki):
     - The first expansion due to its favorable ratio of Comfort per Furniture coin.
     - High-Comfort limited event items, as this will increase the maximum achievable Comfort beyond what is possible by permanently available items alone. Also grab anything that is aesthetically pleasing to you.
@@ -308,4 +316,43 @@ TL;DR: Skinner Box 101. You do stuffs here and get resources and rewards. Reset 
 ### [Building](https://azurlane.koumakan.jp/Building)
 TL;DR: Gacha zone and retirement department. You spend cubes and gold to gacha for ships here, retire blue rarity and higher ships for medals and exchange the medals for bulins, ships, PR BPs, Plates, Books, Food, etc.
 
-#### [Wishing Well]
+### [Permanent Build](https://azurlane.koumakan.jp/Building#Permanent_Construction):
+  * As a newbie it might be hard to decide on which pool you should do your daily on. **If there's an event banner going on, always roll on it unless you lucked out all the banner ship already.** Other than that, I'd recommend build on Light to save cubes **if you are happy with your current fleet comp** or know there's a rerun event or a new event coming soon that has good progression ships, reasoning being:
+    * Light is the cheapest 600 gold 1 cube per build and the daily/weekly will refund the cost completely. It however does not have many notable build-only ships: Mogami, Yukikaze, Sirius, Swiftsure, Montpelier are the main draws. The other notable ones can also be obtained from maps or [Medal Exchange](#medal-exchange) such as: Laffey, Z23 (Niimi), San Diego (Sandy), Portland, Phoenix amongst others.
+    * Heavy cost 1500 gold and 2 cubes per build (as much as a normal event banner) but has most of the progression friendly ship in the game BBs, BCs and CAs including but not limited to: Minneapolis (Minne), Hood, Duke of York (Dork), North Carolina (Norcal), Washington, ~~Jean Bart (JB), Tirpitz,~~ Hyuuga, Pennsylvania, Arizona. The last 2 is easily obtainable from 2-2, Hood and Hyuuga from [Medal Exchange](#medal-exchange) as well. BBs are so highly valued because of their strong shelling prowess that even the worst of them can still put up a half decent performance.
+    * Special also cost 1500 gold and 2 cubes per build but with a focus on CVs and Subs instead. Submarines are mid to end-game concerns because getting the gears for them is for a lack of a better term: a pain in the ass (**DO** get transitional gears for them to do the weekly subs though, it will help you farm less SoS maps). CVs, while not lacking behind in the damage department (except on some bosses) and is relatively easier to gear, lack an Aux gun to properly defend themselves from jihads forces you to field better vanguard to intercept for them in a mobbing fleet and they requires more upgraded equipment and MLB perks to reach their full damage potential whereas BBs can function just fine with just LB1. Nevertheless there are still notable CVs here that can more than enough carry your early game: Essex, Enterprise, Centaur, Taihou, Shangri-La. Enterprise is also in [Medal Exchange](#medal-exchange)
+
+### [Medal Exchange](https://azurlane.koumakan.jp/Building#Exchange)
+This is a shop in and of itself and *the shop content is the same for all players in the same server* so a purchasing recommendation is in order:
+  * Buy the SSR ship on the fortnightly cycle if you want/need her (Hood and Enterprise are massive here)
+  * **ALWAYS save at leasat 80 medals to buy the gold bulins**
+  * Items tab: Gem only food = T3 Skill books > any T3 plates you need > PR BPs > Retro and T2 plates.
+  * Proceed to buy the purins should you need them
+  * I'd only buy a couple Submarine Tech Boxes to get some gears if you are that desperate for them (hint: you really don't, a highly leveled DD with the starter gears that was handed to you can easily solo the entire SoS map until at least W5 if not W9 including the boss for the foreseeable future)
+  
+### [Retire](https://azurlane.koumakan.jp/Building#Retire)
+Here you can retire ships for medals, some return of gold and oil based on level and hull class as well (it allows for an infinite farm of a particular map but I would not recommend anyone to subject themselves to such a brainless activity). On the Medal side:
+  * Grey (N) gives 0 medal so use them as enhancement fodders instead.
+  * Blue (R) gives 1 medal each
+  * Purple (SR) gives 4 medals each
+  * Gold (SSR) gives 10 medals each
+  * Rainbow (UR) gives 30 medals each (Sandykai and Warkai)
+
+### Wishing Well (EVENT)
+Normally I don't say about event but this one is special:
+  * You can choose 2 ships from any of the 3 Permanent Build pools (after a specific cut off date) to get their rate up. 
+  * This selection is **NOT** kept between wishing well and you will choose new wishes every wishing well event (sounds obvious but I have had people asked this before) because the wishing well is constantly expanded since new ships are also being introduced as well. 
+  * Since this event is rare (once or maybe twice a year), I can only say you should pick waifu ships or ships you don't have for rate up ~~(not that it matters, rate up is a lie in all gacha and this game is no exception)~~
+
+### [Guild](https://azurlane.koumakan.jp/Fleet) --- Element 29
+At the point of writing, Guild update has NOT been live so everything you are about to read are what we were teased by the devs themselves, I will disregard the basics such as creating a guild cost 300 gems, changing the guild name cost 100 gems and just state that "You should join a guild now to prepare for the future", now onto the teased aspects (subject to change obviously):
+  * Guild Technology:
+    * Expand Gold storage: increase Gold soft cap for all guild members (up to 12k gold soft cap increase)
+    * Expand Fuel storage: increase Fuel soft cap for all guild members (up to 2k oil soft cap increase)
+    * Expand dock slots: increase dock slots for all guild members (up to 20 dock slots) 
+    * Expand equip storage: increase equip storage slots for all guild members (up to 50 depot slots)
+    * Meowfficer technology(?)
+  * Guild Operations: Large maps with many players contributing and a Boss damage scale
+    * Easy: Battle of Midway Campaign, costs 1000 guild currency
+    * Normal: Escort North Union(?) Transports Campaign. costs 2000
+    * Hard: Battle of Guadalcanal Campaign, costs 3000
