@@ -11,7 +11,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 ## Table of content:
 - [Useful Shorthands](#useful-shorthands)
 - [Main UI Explanation](#main-ui-explanation)
-- [Miscellaneous Tips]()
+- [Battle Interface](#battle-interface)
 
 ## Useful Shorthands
 <details>
@@ -67,8 +67,9 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
      3. Submarine fleet including SS and SSV is another can of worm, unlocked after you clear chapter 3 map 4. A detailed guide about Submarines, Anti-submarine Warfare (ASW) and Rescue Missions can be found [here made by pootatoast](https://azurlane.koumakan.jp/User:Itsfyh/Submarines) (also in the helpful resources section of the readme)
 </details>
 <details>
-  <summary> Miscellaneous acronyms </summary>
+  <summary> Miscellaneous acronyms and tips </summary>
   
+  * **EXP from sorties means any fight that cost oil to do (daily challenges, Hard Mode, Story Map, Event maps, etc) and NOT Exercises, Dorm or Lecture Hall**
   * Equipment:
     - Class guns such as DD, CL, CA, BB are named accordingly: DD gun, CL gun, CA gun, BB gun
     - Dive Bombers: DB
@@ -103,7 +104,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   * Bottom left is where you can change your greetings. 
   * Bottom right is where you can change your secretary as well as set your main secretary (who gains 1 affection every 300-320 mins). You unlock more secretary slots for cosmetics after clearing the specified story maps.
 - **Element 2:** is your quick access side bar. You can collect Canteen Oil and Merchant Coins passive generation here without going to the Academy page, check on Commission teams, Tactical Classroom (NOT the Lecture Hall) and your Research Academy. One of the places you will check the most in the game.
-- **Element 3:** Your "Beginner Missions" that gives a lot of resources and an SSR ship at the end (all 4 ship is also permanent available, recommendation for the ship is Hood if you don't have a BB/BC or Enterprise if you need a CV, Sandy is nice with retro but not that needed)
+- **Element 3:** Your "Beginner Missions" that gives a lot of resources and an SSR ship at the end (all 4 ship is also permanent available, recommendation for the ship is Hood if you don't have a BB/BC or Enterprise if you need a CV, Sandy is nice with retro but not that needed). Also at the bottom right of this mission screen have the research catch up missions that you can do to get EXP cards to fulfill your PR ships exp requirements (and 30 universal BPs to convert). 
 - **Element 4:** is your current oil and oil soft cap, this cap is raised by 100 per HQ level. You can still gain more oil from buying oil with gems, commission, event/mission rewards or redeeming mails but will **NOT** be able to take oil from the canteen. The absolute oil **hard cap is 25,000 oil**. You cannot gain oil in any way if you hit this hard cap.
 - **Element 5:** is your current gold and gold soft cap, this cap is raised by 600 per HQ level. Same deal as oil, still gain more gold from buying gold with gems, commission, event/mission rewards or redeeming mails but will **NOT** be able to take gold from the merchant. The absolute gold **hard cap is 600,000 gold**. You cannot gain gold in any way if you hit this hard cap.
 - **Element 6:** is your current gems stock, the premium currency so to speak, you can gain more by buying in the gems shop, some packs, 3 starring story map missions and some lucky urgent commissions (a minimal amount if any). Therefore as a F2P player, gems is a luxury and should always go into permanent upgrades instead of consumables. Recommended gem expenditure would be the following first before: 
@@ -172,13 +173,23 @@ As many as there are, collectively are all here. They are mainly divided to 2 ty
     * Skills: can be leveled in the [Tactical Classroom in the Academy.](#HQ)
     * Gears: A gear sets button to the far right allows you to save your current gear loadout to quickly unequip/reequip all gears.
     * Bottom part of the UI allow you to: change her Skins, view the ship details in the Archives (to listen to her various unlocked voicelines for example), Lock/Unlock, View the comments on her, Inspect the artwork, set her as Favorite
-     * Morale and Affinity is explained in the [Dorm section of the HQ](#HQ)
+    * Morale and Affinity is explained [here](https://azurlane.koumakan.jp/Affection). But TL;DR is:     
+      - Morale range from 0 to 150, normal cap is 119 and can be exceed by placing them in dorms. If a ship have >120 morale, they gain +20% EXP from sorties.
+      - Morale regenerates in six-minute intervals. The base rate is 20 points per hour, which can be increased by being married (+10 per hour), being in the first floor of the Dorm (+20 per hour), or the second floor (+30 per hour).
+      - Using shipgirls in battle (including daily raid and ambushes) cost 2 morale AT THE START OF BATTLE. Subs do not take any morale cost when called in except Weekly Subs challenge.
+      - Sinking in any non-Exercise sortie reduces morale by 10.
+      - Shipgirls in the Lecture Hall will slowly drain morale over time towards 0. Shipgirls with low morale will refuse to go to Lectures.
+      - Using shipgirls in battle (except Exercises) raise their Affection by 0.0625 (0.125 if MVP) per battle.
+      - Putting her in the Dorm might cause her to display a heart icon. Tapping it will increase her Affection by 0.1 to 0.3 points. Food and existing Affection level may affect the chance of heart icon appearing.
+      - Ships set as secretary gain 1 point of Affection every 300-320 minutes. Secretary Affection gain stops at 90 Affection.
+      - Oathing increase the affection cap to 200 and if affection at 200, provides +12% on all stats (except luck, speed and accuracy)
   - Gear: all ships have 5 equipment slots, what they can equip on each slot is listed here. 
     - For all vanguard ships, they will have a main gun of their class sometimes they can use a smaller caliber gun, an secondary weapon, be it a torpedo mount or a DD gun depending on their SHIP class (not hull class), an AA gun or in the case of absent of it, a unique gear slot (e.g DB for Shirakami Fubuki) and 2 Auxiliary slots.
     - For BB/BC/BBV/BM they have generally the same slots except their secondary can also be CL gun sometimes, replace the AA for a seaplane for BBV and they all use BB guns.
-    - For CVs and CVLs, they have their own plane loadout and their limit break perks complement that, a combination of Fighters, DBs, TBs (and/or AA gun for most CVLs) and 2 Aux Slots
-    - For ARs, they have 3 Aux Slots and 2 AA gun slots.
-    - **Efficiency:** This is an often overlooked stat but it directly relates to how much damage an equipment in that slot will do. In layman's term, a slot equipment is a factor in determining what a ship ideal loadout for a specific situation. For exact damage calculations: refer to the [combat page](https://azurlane.koumakan.jp/Combat#Damage_Calculations) 
+    - For CVs and CVLs, they have their own plane loadout and their limit break perks complement that, a combination of Fighters, DBs, TBs (and/or AA gun for most CVLs) and 2 Aux slots
+    - For ARs, they have 3 Aux slots and 2 AA gun slots.
+    - For Subs, they have 2 main Submarine torpedoes, a DD gun and 2 aux slots
+    - **Efficiency:** This is an often overlooked stat but it directly relates to how much damage an equipment in that slot will do. In layman's term, a slot equipment efficiency is a factor in determining what a ship ideal loadout for a specific situation. For exact damage calculations: refer to the [combat page](https://azurlane.koumakan.jp/Combat#Damage_Calculations) 
   - Limit Break: detailed in the [Limit Break Guide](Limit%20Break%20Guide.md)
   - Enhance: Quote from the wiki: 
     - This screen allows other ships to be permanently consumed in order to boost the stats of the currently selected ship, up to 12 at a time. 
@@ -254,6 +265,7 @@ HQ split into 3 portions: Academy, Dormitory and Cat Lodge/Meowfficer.
 Seriously though, I can't TL;DR more on this section, you have to read the wiki, it's just that complicated if you want to optimize exp/oil ratio and other things:
   * **Decorations do not have to be put down to increase your comfort.**
   * Dorm slots is recommended to spend your gems on even as a F2P as permanent upgrades, the 6th slot is debatable but still very valuable should you able to afford it.
+  * Floor 1 restores a bonus 20 morale per hour while floor 2 is 30 morale per hour and both floor can exceed the normal cap of 119 morale to get EXP bonus
   * Quote from the wiki of the recommended build order (reasoning and mathwork on the wiki):
     - The first expansion due to its favorable ratio of Comfort per Furniture coin.
     - High-Comfort limited event items, as this will increase the maximum achievable Comfort beyond what is possible by permanently available items alone. Also grab anything that is aesthetically pleasing to you.
@@ -288,15 +300,16 @@ TL;DR:
   * Fleet Tech gives bonus stats for **Maximum Limit Broken ships** based on their hull type. 
   * These stat bonuses are gained from getting unique ships to level 120 and Faction Tech. 
   * The 4 main faction tech gives stats for **ALL ships regardless of their faction** and upgradable when you get the tech point for that faction (gained from collecting new unique ships, MLB them and getting them to level 120)
-  * **ALSO REQUIRED FOR UNLOCKING PR2 SHIPS IN SHIPYARD**
+  * **ALSO REQUIRED FOR UNLOCKING PR SHIPS FROM SEASON 2 ONWARDS IN SHIPYARD**
   
 ### [Research Academy](https://azurlane.koumakan.jp/Research_Academy)
 A.k.a A MASSSIVE GOLD SINK AGANE.
-  - Simply put, you spend time and sometimes resources to get PR gears BP and PR ship BPs from the 5 projects. It takes a while before getting the gears or to max out (dev30, then fate 5) PR ships so don't worry about rushing it. ~~And about 9 months to 15 months for a DR ship or gear cause RNG is fun~~
+  - Simply put, you spend time and sometimes resources to get PR EQ BP and PR BPs from the 5 projects. It takes a while before getting the gears or to max out (dev30, then fate 5) PR ships so don't worry about rushing it. ~~About 9 to 15 months for a DR ship or gear cause RNG is fun~~
   - The rates are not equal so here's 2 crowd-sourced data sheet for your perusal: [PR1 speadsheet](https://docs.google.com/spreadsheets/d/1r0himICsu0p_DcEPQYoMqv6V7bbtyZzhyX38SHpQZ3g/edit) and [PR2 spreadsheet](https://docs.google.com/spreadsheets/d/12jp_v9PbojRG2PQ1SMr4y-uQASyKz_ewj-Fi4NVpjls/edit). You can also find this in the readme file of the folder. Best bookmark it, it's very helpful.
   - You can change the focus of the research to guaranteed 2 out of 5 project are from the season you need.
   - You can refresh the list of 5 projects ONCE a day. Reset at exactly the daily reset.
   - Do **NOT** worry about rushing researches or getting the most value at the start because gold is always in demand and T3 plates are needed for enhancing your gears so ration them properly.
+  - PR catch up mechanics: Choose a ship to get that ship catch BPs, you get 300 BPs TOTAL so you can't just get 300 BPs per ship, ration them properly
   
 ### [Shipyard](https://azurlane.koumakan.jp/Research)
 TL;DR: MORE GRIND POGGERS
@@ -325,7 +338,7 @@ TL;DR: Gacha zone and retirement department. You spend cubes and gold to gacha f
 ### [Medal Exchange](https://azurlane.koumakan.jp/Building#Exchange)
 This is a shop in and of itself and *the shop content is the same for all players in the same server* so a purchasing recommendation is in order:
   * Buy the SSR ship on the fortnightly cycle if you want/need her (Hood and Enterprise are massive here)
-  * **ALWAYS save at leasat 80 medals to buy the gold bulins**
+  * **ALWAYS save at least 80 medals to buy the gold bulins**
   * Items tab: Gem only food = T3 Skill books > any T3 plates you need > PR BPs > Retro and T2 plates.
   * Proceed to buy the purins should you need them
   * I'd only buy a couple Submarine Tech Boxes to get some gears if you are that desperate for them (hint: you really don't, a highly leveled DD with the starter gears that was handed to you can easily solo the entire SoS map until at least W5 if not W9 including the boss for the foreseeable future)
@@ -356,3 +369,5 @@ At the point of writing, Guild update has NOT been live so everything you are ab
     * Easy: Battle of Midway Campaign, costs 1000 guild currency
     * Normal: Escort North Union(?) Transports Campaign. costs 2000
     * Hard: Battle of Guadalcanal Campaign, costs 3000
+
+## Battle Interface:
