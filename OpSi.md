@@ -9,13 +9,21 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - **"Everything is so confusing, what do?"** This is content that is permanent for the most part (the META ships are seasonal). Don't worry too much. But it will take a lot of time and consistent game time to grind. AP has a soft cap of 100, regen 1 point per 10 mins.
 - "How do I get out of the map when I finished clearing?" click outside of the map to go to the overworld view. Some says they can't unless they have a fleet at the edge so if you can't exit, move a fleet to the edge. (The back button is a quick way to get to the overworld map view but won't exit your fleets from the current region)
 
-## Movement and playing
+## General Gameplay and Movement
 
-#### Overworld map
+#### General Gameplay:
+- 
+
+#### Overworld map:
 
 - Ports: currently USS, HMS ports are known, they have their own shop that refresh every 3 days approx. There's 2 kind of currency: coins and tech coin. We currently don't know much but using the battle coins liberally is fine.
 - Includes regions that cost AP to enter (story regions 1st clear cost 0 AP to enter and 0 AP to scan)
-- Regions: basically normal maps
+- Regions: basi
+
+#### Regional maps:
+
+- Think of it as normal maps in every chapter in main campaign
+- 
 
 #### Clearing Maps
 X bosses spawn on each map, there is a fog of war that lifts once you destroy all enemies on the map.
