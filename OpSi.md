@@ -61,6 +61,9 @@ Movement in fog is restricted to 1 tile. Normally there will be a Fog generator 
 #### Energy matrix:
 Collect the Matrix on the map and deliver it to the platform to get rewards.
 
+#### Energy Cache: (Place where you use the Energy storage device)
+Go there, use the Energy Storage device and you get loot, simple
+
 ## Enemies
 
 #### Sirens
