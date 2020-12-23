@@ -10,6 +10,7 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - "How do I get out of the map when I finished clearing?" click outside of the map to go to the overworld view. Some says they can't unless they have a fleet at the edge so if you can't exit, move a fleet to the edge. (The back button is a quick way to get to the overworld map view but won't exit your fleets from the current region)
 - "What to buy with Supply Coin and Item Tokens?" Don't know yet, they will be exchanged for some kind of voucher ticket every season anyways so use them liberally.
 - "Why do some region drop no EXP, what gives?" Story region gives no exp whatsoever, all maps do not give affection as well.
+
 ## General Gameplay and Maps:
 
 #### General Gameplay:
@@ -23,7 +24,7 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 
 - Ports: currently USS, HMS ports are known, they have their own shop that refresh every 3 days approx. There's 2 kind of currency: coins and tech coin. We currently don't know much but using the battle coins liberally is fine.
 - Includes regions that cost AP to enter (story regions 1st clear cost 0 AP to enter and 0 AP to scan)
-- Regions: basi
+- Regions: Cost AP to enter
 
 ### Regional maps and effects/point of interest:
 
@@ -55,7 +56,7 @@ Entering or moving into a whirlpool will stop you there, and each time you try t
 Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which might force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point
 
 #### Fog
-Movement in fog is restricted to 1 tile.
+Movement in fog is restricted to 1 tile. Normally there will be a Fog generator that you can go to and remove all fog on the map.
 
 #### Energy matrix:
 Collect the Matrix on the map and deliver it to the platform to get rewards.
@@ -68,10 +69,24 @@ Sirens move whenever you move three times, and unlike events they move 5 tiles a
 #### Dangerous enemies (Mixed Recon Fleets)
 Have specialized modules that buff stats/defense making them incredibly hard to kill without the proper damage type.
 
-## Hiryuu META
-Need 100 coordinates to challenge for yourself
-You can help others up to 3x a day, giving you rewards based on the level of that specific instance of Hiryuu.
-Taken from the patch note: 
+## Ashes Coordinate and Hiryuu META: Excerpt from the patch note
+You can obtain Analysis Points by defeating the META boss in Ashes Showdown.
+Achieve Analysis Point milestones to obtain META ships and other rewards.
+
+Ashes Showdown involves the following 2 elements,
+1) Ashes Coordinate Analysis (unlocking the boss fight)
+2) Fighting the META boss
+
+※ Ashes Showdown is unlocked after clearing chapter 1 of the Operation Siren story campaign.
+
+★ Ashes Coordinate Analysis
+You can obtain Ashes Coordinates from a number of ways including defeating enemies.
+The number of Ashes Coordinates is displayed on the upper right corner of the sea region map.
+
+Once you have obtained the max number of Ashes Coordinates, you can unlock the META boss fight by performing Coordinate Analysis using all of your Coordinates.
+You can only perform Coordinate Analysis twice per day.
+After daily reset, you will be able to perform Coordinate Analysis again, but the number of your Ashes Coordinates will be reset back to the starting number.
+
 ★ Fighting the META boss
 You can access the fight from the button on the lower right corner of the sea region map.
 The META boss fight involves,
