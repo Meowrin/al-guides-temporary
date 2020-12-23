@@ -9,7 +9,8 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - **__DO STORY UNTIL YOU UNLOCK 4 FLEETS__**: This fleet change is almost mandatory if you want to keep progressing story afterwards. This is where your 1st free fleet change comes in. Changing fleets and cats cost a lot of AP. 100 AP each. The cost get reduced down to 0 over time but it takes roughly 24? hours for it. My personal recommendation is as before, while your fleet 3 and 4 should be mimicking fleet 2 in a sense that it has 2 out of 3 damage type (Shelling/Torp/Plane) to counter the bosses.
 - **"Everything is so confusing, what do?"** This is content that is permanent for the most part (the META ships are seasonal). Don't worry too much. But it will take a lot of time and consistent game time to grind. AP has a soft cap of 100, regen 1 point per 10 mins.
 - **Do story, seriously I'm not joking, do it, it helps a lot**. The story marker are the red and green exclamation mark on the map. If you are not end-game or fucked up your fleet set up, don't stray from the path cause high AP entry maps are hard, like W12/W13 level of hard and entering cost AP. Especially so since you do not have enough modules to compete with the enemy so you get extra debuffed. (+/-30% on every facets, offense, defense, healing).
-- "How do I get out of the map when I finished clearing?" click outside of the map to go to the overworld view. Some says they can't unless they have a fleet at the edge so if you can't exit, move a fleet to the edge. (The back button is a quick way to get to the overworld map view but won't exit your fleets from the current region)
+- **Restart a.k.a leaving and retrying battles liberally.** There's no morale or oil cost. There's actually no downsides to retrying fights. If you missed your torp preload on the Nevada and it burns your flag to hell and back, just restart.
+- "How do I get out of the map when I finished clearing?" Click outside of the map to go to the overworld view. Some says they can't unless they have a fleet at the edge so if you can't exit, move a fleet to the edge. (The back button is a quick way to get to the overworld map view but won't exit your fleets from the current region)
 - "What to buy with Supply Coin and Item Tokens?" Don't know yet, they will be exchanged for some kind of voucher ticket every season anyways so use them liberally.
 - "Why do some region drop no EXP, what gives?" Story region gives no exp whatsoever, all maps do not give affection as well. After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately so don't be alarmed when you run out of AP and the game keeps asking you to refill.
 - "What do the bosses here mean, why are they keep warning me?" Warning just means you are hitting a boss fleet, it's a typical one but do take note of the buffs they get (+50% AA and -50% shelling damage taken means you will need torp to do effective damage to the boss for example). They are level appropiate tho so do be careful cause you don't have enough modules early on to compete with theirs and you will get massively debuffed.
@@ -25,25 +26,25 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 
 #### Overworld map:
 
-- Ports: currently USS, HMS ports are known, they have their own shop that refresh every 3 days approx. There's 2 kind of currency: operation coins and tech tokens. We currently don't know much but using the operation coins liberally is fine like patching up your fleet.
-- Includes regions that cost AP to enter (story regions cost 0 AP to enter and 0 AP to scan if they allow you). After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately.
+- Ports: currently USS, HMS ports are known, they have their own shop that refresh every 3 days approx. There's 2 kind of currency: Operation Supply Coins and Special Item Tokens. We currently don't know much but using the supply coins liberally is fine, they are pretty abundant.
+- Regions that cost AP to enter (story regions (has red/green exclamation mark on it cost 0 AP to enter and 0 AP to scan if they allow you). After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately.
 
 ### Regional maps and effects/point of interest:
 
-- Think of it as normal maps in every chapter in main campaign
-- Every fleet has their movement restricted in turns (much like event maps where you have limited movement tiles). Same concept here but turns actually have an effect on the map. The map is semi-dynamic in that mobs might spawn in over time, cat salvages overtime discovering elite fleets (enhanced enemies with modules and more drops)
-- Recon reveal the entire map so scanning mode will reveal hidden cache more effectively.
+- Think of it as normal maps in every chapter in main campaign (and AP as the 10 oil cost to enter). Harder region cost more AP (80 AP region has level 114 mobs and 118 boss, 60 AP has level 103-104, 108 boss)
+- Every fleet has their movement restricted in turns (much like event maps where you have limited movement tiles). Same concept here but turns actually have an effect on the map. The map is semi-dynamic in that mobs might spawn in over time, cat salvages overtime, discovering elite fleets (enhanced enemies with modules and more drops) when you meet them on the map
+- Recon reveal the entire map so scanning mode will reveal hidden cache easier.
 
 #### Modules
 Offense, Defense, Healing modules all either buff or debuff your fleet in battle. You can increase it with items or modules collected in the map
 
 #### Main OpSiren Story
-First time you enter an area for the story it costs no AP, it will cost AP after that. They also do not give EXP.
+First time you enter an area for the story it costs no AP, it will cost AP after that. They also do not give EXP except the boss fight iirc.
 
 #### Map stars
 - Each map has 5 stars you can get.
 Press information -> exploration progress to show the  objectives for the current area. 3 objectives are revealed on the first time you enter an area. [Intel] can spawn [randomly(?)] revealing an additional star requirement.
-- Star rewards are claimed at ports
+- Star rewards can be claimed at ports. (there's like over 50 regions so dw about rushing this content)
 
 #### Siren floating rewards
 Seems to spawn 5 interest points, you can only collect up to 3, 2 will always sink regardless of turns taken.
@@ -80,6 +81,7 @@ Basically boss fleets. Have specialized modules that buff/debuff stats/defense m
 ## Ashes Coordinate and Hiryuu META: Excerpt from the patch note
 
 #### TL;DR:
+- Only unlocks after clearing chapter 1 of the OpSi story
 - Do maps, kill stuffs, collect chests/loot spawns and you will get some coordinate points
 - Get 100 coordinate points and you can host/summon your META boss (they are kinda easy ngl, level 3 boss are only level 78, their danmaku are pretty tho) 
 - The boss gets killed very very fast generally, Host don't need to do anything, supporters will kill it for you. Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets some amount of points, hard to tell (36 for level 3 is all I know). You get 2 host per day and 3 support per day.
