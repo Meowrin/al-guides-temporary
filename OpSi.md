@@ -16,6 +16,7 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - "Wait, what season?" The META ship season. This season ends on March 18. All currency will be converted then.
 - "Why do some region drop no EXP, what gives?" Story region gives no exp whatsoever, all maps do not give affection as well. After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately so don't be alarmed when you run out of AP and the game keeps asking you to refill.
 - "What do the bosses here mean, why are they keep warning me?" Warning just means you are hitting a boss fleet, it's a typical one but do take note of the buffs they get (+50% AA and -50% shelling damage taken means you will need torp to do effective damage to the boss for example). They are level appropiate tho so do be careful cause you don't have enough modules early on to compete with theirs and you will get massively debuffed.
+- "Refills? Where do I do that?" The oil:AP ratio is 10:1. You can refill up to 5 times a day. It's 1000/1000/2000/2000/4000 oil in that order. You can also buy AP packs in port shop with Supply Coins.
 
 ## General Gameplay and Maps:
 
