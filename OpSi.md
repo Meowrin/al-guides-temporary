@@ -5,11 +5,14 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 ## FAQ and TL;DR/Most important advices:
 - **READ THE TUTORIAL**. A lot of questions are answered in the tutorial, remember it, the game won't repeat it.
 - (Optional) **Read the patch note**. This is a link to the ALEC (Azur Lane English Community/Azur Knights) JP patch note: https://discord.com/channels/321283108122918924/362997422018002944/790860232594817034
-- **__PAY ATTENTION WHEN SETTING UP YOUR 1ST 2 FLEETS__**. Changing fleets and cats cost a lot of AP. 100 AP each. The cost get reduced down to 0 over time but it takes roughly 12-24? hours for it. The 1st one is free but AP is important, don't waste it on dumb stuffs. Just set your strongest fleet with your best cats 1st, make every fleet a combination of a boss fleet in terms of damage but if possible use a healer like Perseus or Ryuuhou (until high corrosion that limit healing capability).
+- **__PAY ATTENTION WHEN SETTING UP YOUR 1ST 2 FLEETS__**. Use your **Strongest** ships AND cats, current equipped gears doesn't matter, you can change after and it will apply.  My personal ideal clear comp is one fleet is Richi JB Percy and a torp front line (Naganami Noshiro Jintsuu) and this will solve almost all your mob fights. And the other is triple CVs, tanky high gun damage CA. This will be with you until you unlock 4 fleets which is about an hour of story maps. Which leads me to my next point.
+- **__DO STORY UNTIL YOU UNLOCK 4 FLEETS__**: This fleet change is almost mandatory if you want to keep progressing story afterwards. This is where your 1st free fleet change comes in. Changing fleets and cats cost a lot of AP. 100 AP each. The cost get reduced down to 0 over time but it takes roughly 24? hours for it. My personal recommendation is as before, while your fleet 3 and 4 should be mimicking fleet 2 in a sense that it has 2 out of 3 damage type (Shelling/Torp/Plane) to counter the bosses.
 - **"Everything is so confusing, what do?"** This is content that is permanent for the most part (the META ships are seasonal). Don't worry too much. But it will take a lot of time and consistent game time to grind. AP has a soft cap of 100, regen 1 point per 10 mins.
+- **Do story, seriously I'm not joking, do it, it helps a lot**. The story marker are the red and green exclamation mark on the map. If you are not end-game or fucked up your fleet set up, don't stray from the path cause high AP entry maps are hard, like W12/W13 level of hard and entering cost AP. Especially so since you do not have enough modules to compete with the enemy so you get extra debuffed. (+/-30% on every facets, offense, defense, healing).
 - "How do I get out of the map when I finished clearing?" click outside of the map to go to the overworld view. Some says they can't unless they have a fleet at the edge so if you can't exit, move a fleet to the edge. (The back button is a quick way to get to the overworld map view but won't exit your fleets from the current region)
 - "What to buy with Supply Coin and Item Tokens?" Don't know yet, they will be exchanged for some kind of voucher ticket every season anyways so use them liberally.
-- "Why do some region drop no EXP, what gives?" Story region gives no exp whatsoever, all maps do not give affection as well.
+- "Why do some region drop no EXP, what gives?" Story region gives no exp whatsoever, all maps do not give affection as well. After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately so don't be alarmed when you run out of AP and the game keeps asking you to refill.
+- "What do the bosses here mean, why are they keep warning me?" Warning just means you are hitting a boss fleet, it's a typical one but do take note of the buffs they get (+50% AA and -50% shelling damage taken means you will need torp to do effective damage to the boss for example). They are level appropiate tho so do be careful cause you don't have enough modules early on to compete with theirs and you will get massively debuffed.
 
 ## General Gameplay and Maps:
 
@@ -22,15 +25,14 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 
 #### Overworld map:
 
-- Ports: currently USS, HMS ports are known, they have their own shop that refresh every 3 days approx. There's 2 kind of currency: coins and tech coin. We currently don't know much but using the battle coins liberally is fine.
-- Includes regions that cost AP to enter (story regions 1st clear cost 0 AP to enter and 0 AP to scan)
-- Regions: Cost AP to enter
+- Ports: currently USS, HMS ports are known, they have their own shop that refresh every 3 days approx. There's 2 kind of currency: operation coins and tech tokens. We currently don't know much but using the operation coins liberally is fine like patching up your fleet.
+- Includes regions that cost AP to enter (story regions cost 0 AP to enter and 0 AP to scan if they allow you). After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately.
 
 ### Regional maps and effects/point of interest:
 
 - Think of it as normal maps in every chapter in main campaign
 - Every fleet has their movement restricted in turns (much like event maps where you have limited movement tiles). Same concept here but turns actually have an effect on the map. The map is semi-dynamic in that mobs might spawn in over time, cat salvages overtime discovering elite fleets (enhanced enemies with modules and more drops)
-- Recon reveal the entire map so scanning mode will reveal hidden cache more effectively
+- Recon reveal the entire map so scanning mode will reveal hidden cache more effectively.
 
 #### Modules
 Offense, Defense, Healing modules all either buff or debuff your fleet in battle. You can increase it with items or modules collected in the map
@@ -43,17 +45,20 @@ First time you enter an area for the story it costs no AP, it will cost AP after
 Press information -> exploration progress to show the  objectives for the current area. 3 objectives are revealed on the first time you enter an area. [Intel] can spawn [randomly(?)] revealing an additional star requirement.
 - Star rewards are claimed at ports
 
+#### Siren floating rewards
+Seems to spawn 5 interest points, you can only collect up to 3, 2 will always sink regardless of turns taken.
+
 #### Siren Jamming 
-Occasionally on collecting an item you will be jammed, reducing your movement to 1 tile for the next 5 moves.
+Occasionally on collecting an item you will be jammed, reducing that fleet movement to 1 tile for the next 5 moves.
 
 #### Meowficers Node
-Upon entering the tile you will be asked whether or not you want to deploy Meowficers to gather resources. If you choose to, your meowficcer skills will be disabled for an amount of tile movements based on the map, then they will return with rewards. Rewards are based on Meowficcer levels and rarity.
+Upon entering the tile you will be asked whether or not you want to deploy Meowficers to gather resources. If you choose to, your meowficcer skills will be disabled for an amount (about 7-10) of turns, then they will return with rewards. Rewards are based on Meowficcer levels and rarity.
 
 #### Whirlpool
 Entering or moving into a whirlpool will stop you there, and each time you try to move out you might be stunned eating your moevement, meaning that reinforcements can spawn and move closer. Movement out of the Whirlpool is restricted to 1 tile.
 
 #### Siren Rally Points
-Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which might force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point
+Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which might force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point.
 
 #### Fog
 Movement in fog is restricted to 1 tile. Normally there will be a Fog generator that you can go to and remove all fog on the map.
@@ -70,9 +75,17 @@ Go there, use the Energy Storage device and you get loot, simple
 Sirens move whenever you move three times, and unlike events they move 5 tiles at once instead of 2, so plan ahead if you want to avoid them with your fleets.
 
 #### Dangerous enemies (Mixed Recon Fleets)
-Have specialized modules that buff stats/defense making them incredibly hard to kill without the proper damage type.
+Basically boss fleets. Have specialized modules that buff/debuff stats/defense making them harder or easier to kill with/without the proper damage type. I did notice that "bosses that have a zombie type module that heals after a certain hp% threshold" tend to be accompanied by a +% damage taken which makes theem easy to burst down.
 
 ## Ashes Coordinate and Hiryuu META: Excerpt from the patch note
+
+#### TL;DR:
+- Do maps, kill stuffs, collect chests/loot spawns and you will get some coordinate points
+- Get 100 coordinate points and you can host/summon your META boss (they are kinda easy ngl, level 3 boss are only level 78, their danmaku are pretty tho) 
+- The boss gets killed very very fast generally, Host don't need to do anything, supporters will kill it for you. Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets some amount of points, hard to tell (36 for level 3 is all I know). You get 2 host per day and 3 support per day.
+- The strat is: if you host then go in, change your fleet to your best boss slayer fleet (torp front will nuke the boss in 5s flat if crits), save your fleet, get out, ignore it for 3 mins, it'll die soon, dw about it. Now you get 2 host per day and 3 support per day. To use your support entries: sit there, spam refresh button and click attack till you get a fight and get your 30 something points. Have fun~~~
+
+#### Patch Note:
 You can obtain Analysis Points by defeating the META boss in Ashes Showdown.
 Achieve Analysis Point milestones to obtain META ships and other rewards.
 
