@@ -47,7 +47,7 @@ Offense, Defense, Healing modules all either buff or debuff your fleet in battle
 First time you enter an area for the story it costs no AP, it will cost AP after that. They also do not give EXP except the boss fight iirc.
 
 #### Map stars
-- Each map has 5 stars you can get.
+- Each map has 5 stars you can get. Star 4 and 5 are for now "???" meaning locked and can't be obtained so just ignore it.
 Press information -> exploration progress to show the  objectives for the current area. 3 objectives are revealed on the first time you enter an area. [Intel] can spawn [randomly(?)] revealing an additional star requirement.
 - Star rewards can be claimed at ports. (there's like over 50 regions so dw about rushing this content)
 
