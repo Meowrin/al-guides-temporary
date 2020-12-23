@@ -17,6 +17,7 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - "Why do some region drop no EXP, what gives?" Story region gives no exp whatsoever, all maps do not give affection as well. After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately so don't be alarmed when you run out of AP and the game keeps asking you to refill.
 - "What do the bosses here mean, why are they keep warning me?" Warning just means you are hitting a boss fleet, it's a typical one but do take note of the buffs they get (+50% AA and -50% shelling damage taken means you will need torp to do effective damage to the boss for example). They are level appropiate tho so do be careful cause you don't have enough modules early on to compete with theirs and you will get massively debuffed.
 - "Refills? Where do I do that?" The oil:AP ratio is 10:1. You can refill up to 5 times a day. It's 1000/1000/2000/2000/4000 oil in that order. You can also buy AP packs in port shop with Supply Coins.
+- "What is Meta Lab?" It's detailed in the [META Lab section](OpSi.md#ashes-coordinate-and-hiryuu-meta)
 
 ## General Gameplay and Maps:
 
@@ -83,7 +84,7 @@ Sirens move whenever you move three times, and unlike events they move 5 tiles a
 #### Dangerous enemies (Mixed Recon Fleets)
 Basically boss fleets. Have specialized modules that buff/debuff stats/defense making them harder or easier to kill with/without the proper damage type. I did notice that "bosses that have a zombie type module that heals after a certain hp% threshold" tend to be accompanied by a +% damage taken which makes theem easy to burst down.
 
-## Ashes Coordinate and Hiryuu META: Excerpt from the patch note
+## Ashes Coordinate and Hiryuu META
 
 #### TL;DR:
 - Only unlocks after clearing chapter 1 of the OpSi story
